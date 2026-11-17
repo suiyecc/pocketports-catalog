@@ -1,0 +1,4939 @@
+{
+  "schema_version": 1,
+  "reviewed": "2026-11-17",
+  "source": "https://www.xsmth.com/en/catalog.json",
+  "game_count": 100,
+  "repository_count": 126,
+  "games": [
+    {
+      "id": "aliens-versus-predator",
+      "names": {
+        "en": "Aliens versus Predator",
+        "zh-Hans": "异形大战铁血战士",
+        "zh-Hant": "異形大戰鐵血戰士"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/aliens-versus-predator/",
+        "zh-Hans": "https://www.xsmth.com/games/aliens-versus-predator/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/aliens-versus-predator/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1127/aliens-versus-predator/releases/windows/",
+          "edition": "Aliens Versus Predator (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Bassquake/Aliens-Versus-Predator-VR",
+          "url": "https://github.com/Bassquake/Aliens-Versus-Predator-VR",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Bassquake/Aliens-Versus-Predator-VR#readme"
+          },
+          "data_requirements": {
+            "en": "Install the phone APK and import the original game data.",
+            "zh-Hans": "安装手机版本 APK，再导入原版游戏数据。",
+            "zh-Hant": "安裝手機版本 APK，再匯入原版遊戲資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "amnesia-dark-descent",
+      "names": {
+        "en": "Amnesia: The Dark Descent",
+        "zh-Hans": "失忆症：黑暗后裔",
+        "zh-Hant": "失憶症：黑暗後裔"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/amnesia-dark-descent/",
+        "zh-Hans": "https://www.xsmth.com/games/amnesia-dark-descent/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/amnesia-dark-descent/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://frictionalgames.com/2010-09-survival-horror-amnesia-the-dark-descent-is-released/",
+          "edition": "Amnesia: The Dark Descent (2010)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://frictionalgames.com/2010-09-survival-horror-amnesia-the-dark-descent-is-released/",
+          "edition": "Amnesia: The Dark Descent (2010)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://frictionalgames.com/2010-09-survival-horror-amnesia-the-dark-descent-is-released/",
+          "edition": "Amnesia: The Dark Descent (2010)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "FridiNaTor1/HPL2-handyman",
+          "url": "https://github.com/FridiNaTor1/HPL2-handyman",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/FridiNaTor1/HPL2-handyman#readme"
+          },
+          "data_requirements": {
+            "en": "Import the original game data. A compatible Vulkan device with Android 13 or later is required.",
+            "zh-Hans": "导入原版游戏数据；需要 Android 13 或更新版本及兼容的 Vulkan 设备。",
+            "zh-Hant": "匯入原版遊戲資料；需要 Android 13 或更新版本及相容的 Vulkan 裝置。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "angband",
+      "names": {
+        "en": "Angband",
+        "zh-Hans": "Angband",
+        "zh-Hant": "Angband"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/angband/",
+        "zh-Hans": "https://www.xsmth.com/games/angband/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/angband/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/1789/angband/",
+          "edition": "Angband (1993)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://rephial.org/",
+          "edition": "Angband (official desktop releases)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://rephial.org/",
+          "edition": "Angband (official desktop releases)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Cuboideb/angbandroid",
+          "url": "https://github.com/Cuboideb/angbandroid",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Cuboideb/angbandroid#readme"
+          },
+          "data_requirements": {
+            "en": "Install the Android release supplied by the project.",
+            "zh-Hans": "安装项目提供的 Android 版本即可。",
+            "zh-Hant": "安裝專案提供的 Android 版本即可。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gemrb",
+      "names": {
+        "en": "Baldur’s Gate & Infinity Engine games",
+        "zh-Hans": "博德之门",
+        "zh-Hant": "博德之門"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/gemrb/",
+        "zh-Hans": "https://www.xsmth.com/games/gemrb/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/gemrb/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/712/baldurs-gate/",
+          "edition": "Baldur's Gate (1998)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/712/baldurs-gate/",
+          "edition": "Baldur's Gate (2000)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "gemrb/gemrb",
+          "url": "https://github.com/gemrb/gemrb",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/gemrb/gemrb#readme",
+            "iOS": "https://github.com/gemrb/gemrb#readme",
+            "macOS": "https://gemrb.org/Install",
+            "Windows": "https://gemrb.org/Install"
+          },
+          "data_requirements": {
+            "en": "Point the engine to a supported original installation. A short demo is included.",
+            "zh-Hans": "使用受支持的原始版本游戏目录；引擎附带一个简短演示。",
+            "zh-Hant": "使用受支援的原始版本遊戲目錄；引擎附帶一個簡短演示。"
+          },
+          "desktop_data_requirements": {
+            "en": "Provide the data from a supported original game or the Baldur’s Gate II demo listed in the guide. Check the edition before importing.",
+            "zh-Hans": "使用兼容的原版游戏文件，或项目列出的 Baldur’s Gate II 演示版数据；请核对所购版本。",
+            "zh-Hant": "使用相容的原版遊戲檔案，或專案列出的 Baldur’s Gate II 演示版資料；請核對所購版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "banjo-kazooie",
+      "names": {
+        "en": "Banjo-Kazooie",
+        "zh-Hans": "班卓熊大冒险",
+        "zh-Hant": "阿邦阿卡大冒險"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/banjo-kazooie/",
+        "zh-Hans": "https://www.xsmth.com/games/banjo-kazooie/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/banjo-kazooie/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "AurelioB/BanjoRecomp-Android",
+          "url": "https://github.com/AurelioB/BanjoRecomp-Android",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/AurelioB/BanjoRecomp-Android/blob/android/README.md"
+          },
+          "data_requirements": {
+            "en": "Use a Banjo-Kazooie ROM from an edition supported by the project.",
+            "zh-Hans": "使用项目支持的《Banjo-Kazooie》原版 ROM。",
+            "zh-Hant": "使用專案支援的《Banjo-Kazooie》原版 ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "julius",
+      "names": {
+        "en": "Caesar III",
+        "zh-Hans": "凯撒大帝 III",
+        "zh-Hant": "凱撒大帝 III"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/julius/",
+        "zh-Hans": "https://www.xsmth.com/games/julius/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/julius/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1567/caesar-iii/",
+          "edition": "Caesar III (1998)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/1567/caesar-iii/",
+          "edition": "Caesar III (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "bvschaik/julius",
+          "url": "https://github.com/bvschaik/julius",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/bvschaik/julius#readme",
+            "macOS": "https://github.com/bvschaik/julius/releases/tag/v1.8.0",
+            "Windows": "https://github.com/bvschaik/julius/releases/tag/v1.8.0"
+          },
+          "data_requirements": {
+            "en": "Supply a Caesar III installation updated to version 1.0.1.0.",
+            "zh-Hans": "提供更新到 1.0.1.0 的原版游戏目录。",
+            "zh-Hant": "提供更新到 1.0.1.0 的原版遊戲目錄。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use a Caesar III installation patched to 1.0.1.0 and point Julius at its game directory.",
+            "zh-Hans": "提供更新至 1.0.1.0 的 Caesar III 游戏目录，再从桌面端口加载该目录。",
+            "zh-Hant": "提供更新至 1.0.1.0 的 Caesar III 遊戲目錄，再從桌面埠載入該目錄。"
+          }
+        },
+        {
+          "repository": "Keriew/augustus",
+          "url": "https://github.com/Keriew/augustus",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Keriew/augustus#readme",
+            "macOS": "https://github.com/Keriew/augustus/releases/tag/v4.0.0",
+            "Windows": "https://github.com/Keriew/augustus/releases/tag/v4.0.0"
+          },
+          "data_requirements": {
+            "en": "The original Caesar III game files are required.",
+            "zh-Hans": "需要《凯撒大帝 III》原版游戏文件。",
+            "zh-Hant": "需要《凱撒大帝 III》原版遊戲檔案。"
+          },
+          "desktop_data_requirements": {
+            "en": "Provide your original Caesar III data and select its directory as directed by Augustus.",
+            "zh-Hans": "提供 Caesar III 原版游戏文件，并按照 Augustus 说明配置数据目录。",
+            "zh-Hant": "提供 Caesar III 原版遊戲檔案，並按照 Augustus 說明配置資料目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cataclysm-bright-nights",
+      "names": {
+        "en": "Cataclysm: Bright Nights",
+        "zh-Hans": "大灾变：光明之夜",
+        "zh-Hant": "大災變：光明之夜"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/cataclysm-bright-nights/",
+        "zh-Hans": "https://www.xsmth.com/games/cataclysm-bright-nights/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/cataclysm-bright-nights/"
+      },
+      "original_platforms": [
+        {
+          "platform": "macOS",
+          "source": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
+          "edition": "Cataclysm: Bright Nights 0.13.0"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
+          "edition": "Cataclysm: Bright Nights 0.13.0"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
+          "edition": "Cataclysm: Bright Nights 0.13.0"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "cataclysmbn/Cataclysm-BN",
+          "url": "https://github.com/cataclysmbn/Cataclysm-BN",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/cataclysmbn/Cataclysm-BN#readme",
+            "macOS": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
+            "Windows": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0"
+          },
+          "data_requirements": {
+            "en": "Install the project's Android release.",
+            "zh-Hans": "安装项目提供的安卓发行版即可。",
+            "zh-Hant": "安裝專案提供的Android發行版即可。"
+          },
+          "desktop_data_requirements": {
+            "en": "Install the matching Bright Nights release, including its game assets.",
+            "zh-Hans": "使用 Bright Nights 的对应平台发行包及其资源。",
+            "zh-Hant": "使用 Bright Nights 的對應平臺發行包及其資源。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cataclysm-dda",
+      "names": {
+        "en": "Cataclysm: Dark Days Ahead",
+        "zh-Hans": "大灾变：黑暗之日",
+        "zh-Hant": "大災變：黑暗之日"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/cataclysm-dda/",
+        "zh-Hans": "https://www.xsmth.com/games/cataclysm-dda/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/cataclysm-dda/"
+      },
+      "original_platforms": [
+        {
+          "platform": "macOS",
+          "source": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G",
+          "edition": "Cataclysm: Dark Days Ahead 0.G"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G",
+          "edition": "Cataclysm: Dark Days Ahead 0.G"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G",
+          "edition": "Cataclysm: Dark Days Ahead 0.G"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "CleverRaven/Cataclysm-DDA",
+          "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/c%2B%2B/COMPILING.md#cross-compile-to-android-from-linux",
+            "macOS": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1",
+            "Windows": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1"
+          },
+          "data_requirements": {
+            "en": "Install the project's mobile package.",
+            "zh-Hans": "安装项目提供的移动版即可。",
+            "zh-Hant": "安裝專案提供的移動版即可。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the complete desktop release with its bundled game data.",
+            "zh-Hans": "使用项目的完整桌面发行包及随附数据。",
+            "zh-Hant": "使用專案的完整桌面發行包及隨附資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "doukutsu-rs",
+      "names": {
+        "en": "Cave Story",
+        "zh-Hans": "洞窟物语",
+        "zh-Hant": "洞窟物語"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/doukutsu-rs/",
+        "zh-Hans": "https://www.xsmth.com/games/doukutsu-rs/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/doukutsu-rs/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://github.com/doukutsu-rs/documentation/blob/master/getting-started/how-to-acquire-data-files/freeware-original-2004-release.md",
+          "edition": "Cave Story (original freeware release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "doukutsu-rs/doukutsu-rs",
+          "url": "https://github.com/doukutsu-rs/doukutsu-rs",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/doukutsu-rs/doukutsu-rs#readme",
+            "macOS": "https://github.com/doukutsu-rs/doukutsu-rs/releases/tag/1.0.0",
+            "Windows": "https://github.com/doukutsu-rs/doukutsu-rs/releases/tag/1.0.0"
+          },
+          "data_requirements": {
+            "en": "Import data from a supported edition, including the free original.",
+            "zh-Hans": "导入受支持版本的游戏数据，免费原版也可使用。",
+            "zh-Hant": "匯入受支援版本的遊戲資料，免費原版也可使用。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply data from a supported Cave Story edition. The freeware original is supported, as are compatible commercial editions you own.",
+            "zh-Hans": "使用项目支持的 Cave Story 数据。免费原版的 data 目录也可使用；商业版使用自己持有的副本。",
+            "zh-Hant": "使用專案支援的 Cave Story 資料。免費原版的 data 目錄也可使用；商業版使用自己持有的副本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openloco",
+      "names": {
+        "en": "Chris Sawyer’s Locomotion",
+        "zh-Hans": "克里斯·索耶的运输大亨",
+        "zh-Hant": "克里斯·索耶的運輸大亨"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openloco/",
+        "zh-Hans": "https://www.xsmth.com/games/openloco/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openloco/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/356430/",
+          "edition": "Chris Sawyer's Locomotion (2004)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenLoco/OpenLoco",
+          "url": "https://github.com/OpenLoco/OpenLoco",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://openloco.io/download/",
+            "Windows": "https://openloco.io/download/"
+          },
+          "data_requirements": {
+            "en": "Install your copy of Chris Sawyer’s Locomotion and point OpenLoco at the directory containing its assets.",
+            "zh-Hans": "安装自己持有的 Chris Sawyer’s Locomotion，将 OpenLoco 指向包含原版素材的目录。",
+            "zh-Hant": "安裝自己持有的 Chris Sawyer’s Locomotion，將 OpenLoco 指向包含原版素材的目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openra-android",
+      "names": {
+        "en": "Command & Conquer / Dune 2000",
+        "zh-Hans": "命令与征服／沙丘 2000",
+        "zh-Hant": "命令與征服／沙丘 2000"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openra-android/",
+        "zh-Hans": "https://www.xsmth.com/games/openra-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openra-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/338/command-conquer/",
+          "edition": "Command & Conquer (1995)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/338/command-conquer/",
+          "edition": "Command & Conquer (1996)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/338/command-conquer/",
+          "edition": "Command & Conquer (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "franktfye/OpenRA-android",
+          "url": "https://github.com/franktfye/OpenRA-android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/franktfye/OpenRA-android#readme"
+          },
+          "data_requirements": {
+            "en": "Follow each game's content setup in the engine and connect USB or Bluetooth peripherals.",
+            "zh-Hans": "按引擎内各游戏的提示准备相应内容，并连接 USB 或蓝牙外设。",
+            "zh-Hant": "按引擎內各遊戲的提示準備相應內容，並連線 USB 或藍牙外設。"
+          }
+        },
+        {
+          "repository": "OpenRA/OpenRA",
+          "url": "https://github.com/OpenRA/OpenRA",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://www.openra.net/download/",
+            "Windows": "https://www.openra.net/download/"
+          },
+          "data_requirements": {
+            "en": "Follow the in-game content installer for your chosen title. Required game assets and optional music or cutscenes vary by game.",
+            "zh-Hans": "首次运行时按所选游戏的内容安装器提示导入原版素材；不同游戏与附加影音内容的要求各异。",
+            "zh-Hant": "首次執行時按所選遊戲的內容安裝器提示匯入原版素材；不同遊戲與附加影音內容的要求各異。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "generals-zero-hour",
+      "names": {
+        "en": "Command & Conquer: Generals – Zero Hour",
+        "zh-Hans": "命令与征服：将军 绝命时刻",
+        "zh-Hant": "命令與征服：將軍 絕命時刻"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/generals-zero-hour/",
+        "zh-Hans": "https://www.xsmth.com/games/generals-zero-hour/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/generals-zero-hour/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/10497/command-conquer-generals-zerohour/",
+          "edition": "Command & Conquer: Generals - Zero:Hour (2003)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.application-systems.de/stundenull/",
+          "edition": "Command & Conquer: Generals – Zero Hour (Mac OS X release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "ammaarreshi/Generals-Mac-iOS-iPad",
+          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS",
+            "macOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad#readme",
+            "macOS": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad#quick-start--macos"
+          },
+          "data_requirements": {
+            "en": "Supply your own Zero Hour game files and follow the build and signing instructions.",
+            "zh-Hans": "准备自己的《绝命时刻》游戏文件，按项目说明构建并签名。",
+            "zh-Hant": "準備自己的《絕命時刻》遊戲檔案，按專案說明構建並簽名。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use your own Zero Hour files and follow the macOS quick start for build dependencies and game data.",
+            "zh-Hans": "准备自己持有的 Zero Hour 数据，按 macOS 指引安装构建依赖并导入游戏。",
+            "zh-Hant": "準備自己持有的 Zero Hour 資料，按 macOS 指引安裝構建依賴並匯入遊戲。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "red-alert",
+      "names": {
+        "en": "Command & Conquer: Red Alert",
+        "zh-Hans": "命令与征服：红色警戒",
+        "zh-Hant": "命令與征服：紅色警戒"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/red-alert/",
+        "zh-Hans": "https://www.xsmth.com/games/red-alert/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/red-alert/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/485/command-conquer-red-alert/",
+          "edition": "Command & Conquer: Red Alert (1996)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/485/command-conquer-red-alert/",
+          "edition": "Command & Conquer: Red Alert (1996)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "dk8827/ra-port",
+          "url": "https://github.com/dk8827/ra-port",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/dk8827/ra-port#readme",
+            "iOS": "https://github.com/dk8827/ra-port#readme"
+          },
+          "data_requirements": {
+            "en": "Build the app with data from your own disc or disc image.",
+            "zh-Hans": "从自己持有的光盘或镜像提取数据并构建应用。",
+            "zh-Hant": "從自己持有的光碟或映象提取資料並構建應用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "red-alert-2",
+      "names": {
+        "en": "Command & Conquer: Red Alert 2 – Yuri’s Revenge",
+        "zh-Hans": "红色警戒 2：尤里的复仇",
+        "zh-Hant": "紅色警戒 2：尤里的復仇"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/red-alert-2/",
+        "zh-Hans": "https://www.xsmth.com/games/red-alert-2/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/red-alert-2/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/5120/command-conquer-yuris-revenge/",
+          "edition": "Command & Conquer: Yuri's Revenge (2001)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "omarelarab/ra2-engine",
+          "url": "https://github.com/omarelarab/ra2-engine",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/omarelarab/ra2-engine#readme"
+          },
+          "data_requirements": {
+            "en": "Import the listed MIX archives and other files from your installation.",
+            "zh-Hans": "按项目清单导入自己安装目录内的 MIX 等数据文件。",
+            "zh-Hant": "按專案清單匯入自己安裝目錄內的 MIX 等資料檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "commander-genius",
+      "names": {
+        "en": "Commander Keen",
+        "zh-Hans": "指挥官基恩",
+        "zh-Hant": "指揮官基恩"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/commander-genius/",
+        "zh-Hans": "https://www.xsmth.com/games/commander-genius/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/commander-genius/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/216/commander-keen-1-marooned-on-mars/",
+          "edition": "Commander Keen 1: Marooned on Mars (1990)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "gerstrong/Commander-Genius",
+          "url": "https://github.com/gerstrong/Commander-Genius",
+          "original_platform": "PC",
+          "port_type": "Compatible engine",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/gerstrong/Commander-Genius#readme",
+            "iOS": "https://github.com/gerstrong/Commander-Genius#readme"
+          },
+          "data_requirements": {
+            "en": "Import your episode data or use the in-project source for available episodes.",
+            "zh-Hans": "导入所选章节的原版数据，或从项目内的入口获取可用章节。",
+            "zh-Hant": "匯入所選章節的原版資料，或從專案內的入口獲取可用章節。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cs16-client",
+      "names": {
+        "en": "Counter-Strike 1.6",
+        "zh-Hans": "反恐精英 1.6",
+        "zh-Hant": "絕對武力 1.6"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/cs16-client/",
+        "zh-Hans": "https://www.xsmth.com/games/cs16-client/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/cs16-client/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/10/",
+          "edition": "Half-Life: Counter-Strike (2000)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/10/",
+          "edition": "Counter-Strike (Valve’s Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "FWGS/cs16-client",
+          "url": "https://github.com/FWGS/cs16-client",
+          "original_platform": "PC",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/FWGS/cs16-client#readme"
+          },
+          "data_requirements": {
+            "en": "Copy the valve and cstrike directories from your Steam installation to the Xash3D data directory.",
+            "zh-Hans": "将 Steam 版的 valve、cstrike 文件夹复制到 Xash3D 数据目录。",
+            "zh-Hant": "將 Steam 版的 valve、cstrike 資料夾複製到 Xash3D 資料目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crash-bandicoot-ps1",
+      "names": {
+        "en": "Crash Bandicoot",
+        "zh-Hans": "古惑狼",
+        "zh-Hant": "古惑狼"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/crash-bandicoot-ps1/",
+        "zh-Hans": "https://www.xsmth.com/games/crash-bandicoot-ps1/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/crash-bandicoot-ps1/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "Matteo842/CrashBandicoot-Launcher",
+          "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Use a CHD or a CUE/BIN pair from your US game disc.",
+            "zh-Hans": "使用美版游戏光盘导出的 CHD 或 CUE 与 BIN 文件。",
+            "zh-Hant": "使用美版遊戲光碟匯出的 CHD 或 CUE 與 BIN 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crash-team-racing",
+      "names": {
+        "en": "Crash Team Racing",
+        "zh-Hans": "古惑狼赛车",
+        "zh-Hant": "古惑狼賽車"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/crash-team-racing/",
+        "zh-Hans": "https://www.xsmth.com/games/crash-team-racing/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/crash-team-racing/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "Simon358/ctr-native-android",
+          "url": "https://github.com/Simon358/ctr-native-android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Simon358/ctr-native-android/blob/master/README_ANDROID.md"
+          },
+          "data_requirements": {
+            "en": "Select the raw BIN file from your US game disc inside the app.",
+            "zh-Hans": "提供美版光盘的原始 BIN 文件，在应用内选择。",
+            "zh-Hant": "提供美版光碟的原始 BIN 檔案，在應用內選擇。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "descent",
+      "names": {
+        "en": "Descent",
+        "zh-Hans": "Descent",
+        "zh-Hant": "Descent"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/descent/",
+        "zh-Hans": "https://www.xsmth.com/games/descent/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/descent/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/692/descent/",
+          "edition": "Descent (1995)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/692/descent/",
+          "edition": "Descent (1995)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "devint1/Descent-Mobile",
+          "url": "https://github.com/devint1/Descent-Mobile",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/devint1/Descent-Mobile#readme",
+            "iOS": "https://github.com/devint1/Descent-Mobile#readme"
+          },
+          "data_requirements": {
+            "en": "Copy DESCENT.HOG and DESCENT.PIG from the original game before building.",
+            "zh-Hans": "从原版复制 DESCENT.HOG、DESCENT.PIG 后编译应用。",
+            "zh-Hant": "從原版複製 DESCENT.HOG、DESCENT.PIG 後編譯應用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "descent-ii",
+      "names": {
+        "en": "Descent II",
+        "zh-Hans": "Descent II",
+        "zh-Hant": "Descent II"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/descent-ii/",
+        "zh-Hans": "https://www.xsmth.com/games/descent-ii/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/descent-ii/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/694/descent-ii/",
+          "edition": "Descent II (1996)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/694/descent-ii/",
+          "edition": "Descent II (1996)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/694/descent-ii/",
+          "edition": "Descent II (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "devint1/Descent2-Mobile",
+          "url": "https://github.com/devint1/Descent2-Mobile",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/devint1/Descent2-Mobile#readme",
+            "iOS": "https://github.com/devint1/Descent2-Mobile#readme"
+          },
+          "data_requirements": {
+            "en": "Supply the sequel's HOG, PIG, HAM, audio and cinematic files listed in the build guide.",
+            "zh-Hans": "准备二代 HOG、PIG、HAM、音频和过场文件后构建，详见清单。",
+            "zh-Hant": "準備二代 HOG、PIG、HAM、音訊和過場檔案後構建，詳見清單。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "devilutionx",
+      "names": {
+        "en": "Diablo & Hellfire",
+        "zh-Hans": "暗黑破坏神／地狱火",
+        "zh-Hant": "暗黑破壞神／地獄火"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/devilutionx/",
+        "zh-Hans": "https://www.xsmth.com/games/devilutionx/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/devilutionx/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/339/diablo/",
+          "edition": "Diablo (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "diasurgical/devilutionX",
+          "url": "https://github.com/diasurgical/devilutionX",
+          "original_platform": "PC",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/diasurgical/devilutionX#readme",
+            "iOS": "https://github.com/diasurgical/devilutionX#readme",
+            "macOS": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5",
+            "Windows": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5"
+          },
+          "data_requirements": {
+            "en": "The full game needs DIABDAT.MPQ. The shareware spawn.mpq can be used for the trial content.",
+            "zh-Hans": "完整版需要 DIABDAT.MPQ；试玩可使用共享版 spawn.mpq。",
+            "zh-Hant": "完整版需要 DIABDAT.MPQ；試玩可使用共享版 spawn.mpq。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply DIABDAT.MPQ from Diablo or spawn.mpq from the shareware edition. Hellfire also needs its expansion files.",
+            "zh-Hans": "完整版读取原版 DIABDAT.MPQ；共享试玩版可使用 spawn.mpq。Hellfire 还需对应资料片文件。",
+            "zh-Hant": "完整版讀取原版 DIABDAT.MPQ；共享試玩版可使用 spawn.mpq。Hellfire 還需對應資料片檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dk64-recomp",
+      "names": {
+        "en": "Donkey Kong 64",
+        "zh-Hans": "咚奇刚64",
+        "zh-Hant": "咚奇剛64"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/dk64-recomp/",
+        "zh-Hans": "https://www.xsmth.com/games/dk64-recomp/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/dk64-recomp/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "deivid22srk/dk64-recomp-android",
+          "url": "https://github.com/deivid22srk/dk64-recomp-android",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/deivid22srk/dk64-recomp-android/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Provide a US NTSC-U 1.0 Donkey Kong 64 ROM.",
+            "zh-Hans": "需要美版 NTSC-U 1.0《Donkey Kong 64》ROM。",
+            "zh-Hant": "需要美版 NTSC-U 1.0《Donkey Kong 64》ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "doom3-ios",
+      "names": {
+        "en": "DOOM 3",
+        "zh-Hans": "毁灭战士 3",
+        "zh-Hant": "毀滅戰士 3"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/doom3-ios/",
+        "zh-Hans": "https://www.xsmth.com/games/doom3-ios/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/doom3-ios/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/14320/doom3/",
+          "edition": "Doom³ (2004)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/14320/doom3/",
+          "edition": "Doom³ (2004)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.macworld.com/article/174858/doom3-8.html",
+          "edition": "DOOM 3 (Aspyr Macintosh release, 2005)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "tomkidd/DOOM3-iOS",
+          "url": "https://github.com/tomkidd/DOOM3-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/tomkidd/DOOM3-iOS"
+          },
+          "data_requirements": {
+            "en": "Copy base from the 2004 release and d3xp for the expansion. BFG Edition data is incompatible.",
+            "zh-Hans": "从 2004 版复制 base，资料片另需 d3xp。BFG 版数据不适用。",
+            "zh-Hant": "從 2004 版複製 base，資料片另需 d3xp。BFG 版資料不適用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "doom-classic-ios",
+      "names": {
+        "en": "DOOM Classic",
+        "zh-Hans": "毁灭战士",
+        "zh-Hant": "毀滅戰士"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/doom-classic-ios/",
+        "zh-Hans": "https://www.xsmth.com/games/doom-classic-ios/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/doom-classic-ios/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/1068/doom/",
+          "edition": "Doom (1993)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/1068/doom/",
+          "edition": "Doom (1994)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1068/doom/",
+          "edition": "Doom (1996)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "id-Software/DOOM-iOS",
+          "url": "https://github.com/id-Software/DOOM-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/id-Software/DOOM-iOS#readme"
+          },
+          "data_requirements": {
+            "en": "Build the historical source and supply game data appropriate to that version.",
+            "zh-Hans": "历史源码需自行构建，并准备相应的游戏数据。",
+            "zh-Hant": "歷史原始碼需自行構建，並準備相應的遊戲資料。"
+          }
+        },
+        {
+          "repository": "CanavarIT/CookieDoom",
+          "url": "https://github.com/CanavarIT/CookieDoom",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/CanavarIT/CookieDoom"
+          },
+          "data_requirements": {
+            "en": "Use Add files to select your DOOM.WAD, DOOM2.WAD or another supported file.",
+            "zh-Hans": "用 Add files 选入自己的 DOOM.WAD、DOOM2.WAD 等受支持文件。",
+            "zh-Hant": "用 Add files 選入自己的 DOOM.WAD、DOOM2.WAD 等受支援檔案。"
+          }
+        },
+        {
+          "repository": "chocolate-doom/chocolate-doom",
+          "url": "https://github.com/chocolate-doom/chocolate-doom",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/chocolate-doom/chocolate-doom/releases/tag/chocolate-doom-3.1.1",
+            "Windows": "https://github.com/chocolate-doom/chocolate-doom/releases/tag/chocolate-doom-3.1.1"
+          },
+          "data_requirements": {
+            "en": "Provide an IWAD from your copy of Doom, such as DOOM.WAD or DOOM2.WAD, or use the shareware DOOM1.WAD.",
+            "zh-Hans": "从自己持有的 Doom 游戏中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。",
+            "zh-Hant": "從自己持有的 Doom 遊戲中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eduke-ios",
+      "names": {
+        "en": "Duke Nukem 3D",
+        "zh-Hans": "毁灭公爵 3D",
+        "zh-Hant": "毀滅公爵 3D"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/eduke-ios/",
+        "zh-Hans": "https://www.xsmth.com/games/eduke-ios/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/eduke-ios/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/365/duke-nukem-3d/",
+          "edition": "Duke Nukem 3D (1996)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "arjunkl/eDukeiOS",
+          "url": "https://github.com/arjunkl/eDukeiOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/arjunkl/eDukeiOS#readme"
+          },
+          "data_requirements": {
+            "en": "Supply your own DUKE3D.GRP, then sign and install the app as documented.",
+            "zh-Hans": "提供自己的 DUKE3D.GRP，按说明签名安装应用。",
+            "zh-Hant": "提供自己的 DUKE3D.GRP，按說明簽名安裝應用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dcss",
+      "names": {
+        "en": "Dungeon Crawl Stone Soup",
+        "zh-Hans": "Dungeon Crawl Stone Soup",
+        "zh-Hant": "Dungeon Crawl Stone Soup"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/dcss/",
+        "zh-Hans": "https://www.xsmth.com/games/dcss/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/dcss/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://crawl.develz.org/download",
+          "edition": "Dungeon Crawl Stone Soup (official desktop releases)"
+        },
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/167886/dungeon-crawl-stone-soup/",
+          "edition": "Dungeon Crawl: Stone Soup (2006)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://crawl.develz.org/download",
+          "edition": "Dungeon Crawl Stone Soup (official desktop releases)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://crawl.develz.org/download",
+          "edition": "Dungeon Crawl Stone Soup (official desktop releases)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "crawl/crawl",
+          "url": "https://github.com/crawl/crawl",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/crawl/crawl/blob/master/crawl-ref/docs/develop/android.txt"
+          },
+          "data_requirements": {
+            "en": "Build with the project's resources or install its mobile version.",
+            "zh-Hans": "使用项目资源构建或安装移动版本。",
+            "zh-Hant": "使用專案資源構建或安裝移動版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "keeper-recomped",
+      "names": {
+        "en": "Dungeon Keeper",
+        "zh-Hans": "地下城守护者",
+        "zh-Hant": "地下城守護者"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/keeper-recomped/",
+        "zh-Hans": "https://www.xsmth.com/games/keeper-recomped/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/keeper-recomped/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/156/dungeon-keeper/",
+          "edition": "Dungeon Keeper (1997)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/156/dungeon-keeper/",
+          "edition": "Dungeon Keeper (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "K11MCH1/Keeper-Recomped",
+          "url": "https://github.com/K11MCH1/Keeper-Recomped",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/K11MCH1/Keeper-Recomped#readme"
+          },
+          "data_requirements": {
+            "en": "Prepare original Dungeon Keeper files and Android 15 or later. Initial setup requires internet access.",
+            "zh-Hans": "准备地下城守护者原版文件及 Android 15 或更新版本，首次配置需要联网。",
+            "zh-Hant": "準備地下城守護者原版檔案及 Android 15 或更新版本，首次配置需要聯網。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openkeeper-android",
+      "names": {
+        "en": "Dungeon Keeper 2",
+        "zh-Hans": "地下城守护者 2",
+        "zh-Hant": "地下城守護者 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openkeeper-android/",
+        "zh-Hans": "https://www.xsmth.com/games/openkeeper-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openkeeper-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/533/dungeon-keeper-2/releases/windows/",
+          "edition": "Dungeon Keeper 2 (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "DifferentNet/OpenKeeper",
+          "url": "https://github.com/DifferentNet/OpenKeeper",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/DifferentNet/OpenKeeper/blob/android-port/ANDROID.md"
+          },
+          "data_requirements": {
+            "en": "Convert the original Dungeon Keeper 2 assets with the Windows tool, then transfer them to the mobile device.",
+            "zh-Hans": "用 Windows 工具转换二代原版素材，再将它们传入移动设备。",
+            "zh-Hant": "用 Windows 工具轉換二代原版素材，再將它們傳入移動裝置。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fallout-ce",
+      "names": {
+        "en": "Fallout",
+        "zh-Hans": "辐射",
+        "zh-Hant": "異塵餘生"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/fallout-ce/",
+        "zh-Hans": "https://www.xsmth.com/games/fallout-ce/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/fallout-ce/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/223/fallout/",
+          "edition": "Fallout (1997)"
+        },
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/223/fallout/",
+          "edition": "Fallout (1997)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/223/fallout/",
+          "edition": "Fallout (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "alexbatalov/fallout1-ce",
+          "url": "https://github.com/alexbatalov/fallout1-ce",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/alexbatalov/fallout1-ce#readme",
+            "iOS": "https://github.com/alexbatalov/fallout1-ce#readme",
+            "macOS": "https://github.com/alexbatalov/fallout1-ce/releases/tag/v1.1.0",
+            "Windows": "https://github.com/alexbatalov/fallout1-ce/releases/tag/v1.1.0"
+          },
+          "data_requirements": {
+            "en": "Import master.dat, critter.dat and the data folder from the original game. Keep filenames lowercase.",
+            "zh-Hans": "导入原版 master.dat、critter.dat 和 data 文件夹，文件名保持小写。",
+            "zh-Hant": "匯入原版 master.dat、critter.dat 和 data 資料夾，檔名保持小寫。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use master.dat, critter.dat and the data directory from an original Fallout installation.",
+            "zh-Hans": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目录。",
+            "zh-Hant": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fallout2-ce",
+      "names": {
+        "en": "Fallout 2",
+        "zh-Hans": "辐射 2",
+        "zh-Hant": "異塵餘生 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/fallout2-ce/",
+        "zh-Hans": "https://www.xsmth.com/games/fallout2-ce/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/fallout2-ce/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/239/fallout-2/",
+          "edition": "Fallout 2 (1998)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "alexbatalov/fallout2-ce",
+          "url": "https://github.com/alexbatalov/fallout2-ce",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/alexbatalov/fallout2-ce#readme",
+            "iOS": "https://github.com/alexbatalov/fallout2-ce#readme",
+            "macOS": "https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0",
+            "Windows": "https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0"
+          },
+          "data_requirements": {
+            "en": "Copy master.dat, critter.dat, patch000.dat and the data folder from your installation.",
+            "zh-Hans": "从原版复制 master.dat、critter.dat、patch000.dat 和 data 文件夹。",
+            "zh-Hant": "從原版複製 master.dat、critter.dat、patch000.dat 和 data 資料夾。"
+          },
+          "desktop_data_requirements": {
+            "en": "Copy master.dat, critter.dat, patch000.dat and the data directory from Fallout 2.",
+            "zh-Hans": "从 Fallout 2 原版安装复制 master.dat、critter.dat、patch000.dat 和 data 目录。",
+            "zh-Hant": "從 Fallout 2 原版安裝複製 master.dat、critter.dat、patch000.dat 和 data 目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftl-pocket-wormhole",
+      "names": {
+        "en": "FTL: Faster Than Light",
+        "zh-Hans": "超越光速",
+        "zh-Hant": "超越光速"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/ftl-pocket-wormhole/",
+        "zh-Hans": "https://www.xsmth.com/games/ftl-pocket-wormhole/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/ftl-pocket-wormhole/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/212680/",
+          "edition": "FTL: Faster Than Light"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/212680/",
+          "edition": "FTL: Faster Than Light"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://store.steampowered.com/app/212680/",
+          "edition": "FTL: Faster Than Light"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "adamkulik/pocket-wormhole",
+          "url": "https://github.com/adamkulik/pocket-wormhole",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/adamkulik/pocket-wormhole#readme"
+          },
+          "data_requirements": {
+            "en": "Select ftl.dat from your Steam or GOG installation.",
+            "zh-Hans": "从自己的 Steam 或 GOG 安装目录中选择 ftl.dat。",
+            "zh-Hant": "從自己的 Steam 或 GOG 安裝目錄中選擇 ftl.dat。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gish",
+      "names": {
+        "en": "Gish",
+        "zh-Hans": "Gish",
+        "zh-Hant": "Gish"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/gish/",
+        "zh-Hans": "https://www.xsmth.com/games/gish/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/gish/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/9500/",
+          "edition": "Gish (Steam edition)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/13700/gish/",
+          "edition": "Gish (2004)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/9500/",
+          "edition": "Gish (Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "EXL/Gish",
+          "url": "https://github.com/EXL/Gish",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/EXL/Gish#readme"
+          },
+          "data_requirements": {
+            "en": "After installing the APK, copy the game files from your purchased copy of Gish.",
+            "zh-Hans": "安装 APK 后复制已购买的 Gish 游戏文件。",
+            "zh-Hant": "安裝 APK 後複製已購買的 Gish 遊戲檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opengothic",
+      "names": {
+        "en": "Gothic II: Night of the Raven",
+        "zh-Hans": "哥特王朝 II：乌鸦之夜",
+        "zh-Hant": "哥特王朝 II：烏鴉之夜"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/opengothic/",
+        "zh-Hans": "https://www.xsmth.com/games/opengothic/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/opengothic/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/10656/gothic-ii-night-of-the-raven/releases/windows/",
+          "edition": "Gothic II: Night of the Raven (2003)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Try/OpenGothic",
+          "url": "https://github.com/Try/OpenGothic",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Try/OpenGothic#readme"
+          },
+          "data_requirements": {
+            "en": "Supply the game data and scripts from Night of the Raven.",
+            "zh-Hans": "需要《乌鸦之夜》游戏数据和脚本。",
+            "zh-Hant": "需要《烏鴉之夜》遊戲資料和指令碼。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xash3d",
+      "names": {
+        "en": "Half-Life",
+        "zh-Hans": "半衰期",
+        "zh-Hant": "戰慄時空"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/xash3d/",
+        "zh-Hans": "https://www.xsmth.com/games/xash3d/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/xash3d/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/70/",
+          "edition": "Half-Life (1998)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/70/",
+          "edition": "Half-Life (Valve’s Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "FWGS/xash3d-fwgs",
+          "url": "https://github.com/FWGS/xash3d-fwgs",
+          "original_platform": "PC",
+          "port_type": "Compatible engine",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/FWGS/xash3d-fwgs#readme",
+            "iOS": "https://github.com/FWGS/xash3d-fwgs#readme"
+          },
+          "data_requirements": {
+            "en": "Supply your own Half-Life data. The project includes Xcode build instructions for iOS.",
+            "zh-Hans": "使用自己的 Half-Life 数据；iOS 可按项目的 Xcode 说明构建。",
+            "zh-Hant": "使用自己的 Half-Life 資料；iOS 可按專案的 Xcode 說明構建。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "harvest-moon-64",
+      "names": {
+        "en": "Harvest Moon 64",
+        "zh-Hans": "牧场物语2",
+        "zh-Hant": "牧場物語2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/harvest-moon-64/",
+        "zh-Hans": "https://www.xsmth.com/games/harvest-moon-64/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/harvest-moon-64/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "igawa6/HarvestMoon64Recomp",
+          "url": "https://github.com/igawa6/HarvestMoon64Recomp",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/igawa6/HarvestMoon64Recomp/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Import the North American Harvest Moon 64 ROM.",
+            "zh-Hans": "导入北美版《Harvest Moon 64》ROM。",
+            "zh-Hant": "匯入北美版《Harvest Moon 64》ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fheroes2",
+      "names": {
+        "en": "Heroes of Might and Magic II",
+        "zh-Hans": "魔法门之英雄无敌 II",
+        "zh-Hant": "魔法門之英雄無敵 II"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/fheroes2/",
+        "zh-Hans": "https://www.xsmth.com/games/fheroes2/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/fheroes2/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/1513/heroes-of-might-and-magic-ii-the-succession-wars/",
+          "edition": "Heroes of Might and Magic II: The Succession Wars (1996)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1513/heroes-of-might-and-magic-ii-the-succession-wars/",
+          "edition": "Heroes of Might and Magic II: The Succession Wars (1996)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/1513/heroes-of-might-and-magic-ii-the-succession-wars/",
+          "edition": "Heroes of Might and Magic II: The Succession Wars (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "ihhub/fheroes2",
+          "url": "https://github.com/ihhub/fheroes2",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/ihhub/fheroes2/blob/master/docs/DEVELOPMENT.md",
+            "iOS": "https://github.com/ihhub/fheroes2/blob/master/docs/DEVELOPMENT.md",
+            "macOS": "https://github.com/ihhub/fheroes2/releases/tag/1.1.18",
+            "Windows": "https://github.com/ihhub/fheroes2/releases/tag/1.1.18"
+          },
+          "data_requirements": {
+            "en": "Import ANIM, DATA, MAPS, MUSIC and the other required original directories, or follow the project's demo setup.",
+            "zh-Hans": "导入原版 ANIM、DATA、MAPS、MUSIC 等目录，或按项目说明安装试玩资源。",
+            "zh-Hant": "匯入原版 ANIM、DATA、MAPS、MUSIC 等目錄，或按專案說明安裝試玩資源。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use files from your copy of Heroes II or install the supported demo assets. Expansion content requires its own files.",
+            "zh-Hans": "导入自己持有的游戏数据，或按项目说明安装演示版资源。使用资料片内容需相应文件。",
+            "zh-Hant": "匯入自己持有的遊戲資料，或按專案說明安裝演示版資源。使用資料片內容需相應檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vcmi",
+      "names": {
+        "en": "Heroes of Might and Magic III",
+        "zh-Hans": "魔法门之英雄无敌 III",
+        "zh-Hant": "魔法門之英雄無敵 III"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/vcmi/",
+        "zh-Hans": "https://www.xsmth.com/games/vcmi/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/vcmi/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1494/heroes-of-might-and-magic-iii-the-restoration-of-erathia/",
+          "edition": "Heroes of Might and Magic III: The Restoration of Erathia (1999)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/1494/heroes-of-might-and-magic-iii-the-restoration-of-erathia/",
+          "edition": "Heroes of Might and Magic III: The Restoration of Erathia (1999)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/1494/heroes-of-might-and-magic-iii-the-restoration-of-erathia/",
+          "edition": "Heroes of Might and Magic III: The Restoration of Erathia (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "vcmi/vcmi",
+          "url": "https://github.com/vcmi/vcmi",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/vcmi/VCMI.eu/blob/master/additional/docs/faq.md",
+            "iOS": "https://github.com/vcmi/VCMI.eu/blob/master/additional/docs/faq.md",
+            "macOS": "https://vcmi.eu/players/Installation_macOS/",
+            "Windows": "https://vcmi.eu/players/Installation_Windows/"
+          },
+          "data_requirements": {
+            "en": "Import data from Complete or The Shadow of Death, following the instructions for your mobile platform.",
+            "zh-Hans": "导入完整版或死亡阴影版本的数据；请按移动系统的安装指南操作。",
+            "zh-Hant": "匯入完整版或死亡陰影版本的資料；請按移動系統的安裝指南操作。"
+          },
+          "desktop_data_requirements": {
+            "en": "Import game data from Heroes III Complete or Shadow of Death. Follow the platform guide for importing an existing installation or a supported offline installer.",
+            "zh-Hans": "启动器可识别原版 Complete 或 Shadow of Death 数据。按对应系统说明导入 DATA、MAPS 等目录或受支持的离线安装包。",
+            "zh-Hant": "啟動器可識別原版 Complete 或 Shadow of Death 資料。按對應系統說明匯入 DATA、MAPS 等目錄或受支援的離線安裝包。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ja2-stracciatella",
+      "names": {
+        "en": "Jagged Alliance 2",
+        "zh-Hans": "铁血联盟 2",
+        "zh-Hant": "鐵血聯盟 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/ja2-stracciatella/",
+        "zh-Hans": "https://www.xsmth.com/games/ja2-stracciatella/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/ja2-stracciatella/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/356/jagged-alliance-2/",
+          "edition": "Jagged Alliance 2 (1999)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/356/jagged-alliance-2/",
+          "edition": "Jagged Alliance 2 (2001)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "ja2-stracciatella/ja2-stracciatella",
+          "url": "https://github.com/ja2-stracciatella/ja2-stracciatella",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://ja2-stracciatella.github.io/how-to-run/",
+            "macOS": "https://github.com/ja2-stracciatella/ja2-stracciatella/releases/tag/v0.22.1",
+            "Windows": "https://github.com/ja2-stracciatella/ja2-stracciatella/releases/tag/v0.22.1"
+          },
+          "data_requirements": {
+            "en": "Install the APK and select your original game data folder in the launcher.",
+            "zh-Hans": "安装 Android APK，在启动器中指定原版游戏数据目录。",
+            "zh-Hant": "安裝 Android APK，在啟動器中指定原版遊戲資料目錄。"
+          },
+          "desktop_data_requirements": {
+            "en": "Provide the game files from a supported classic release of Jagged Alliance 2.",
+            "zh-Hans": "需要受支持的经典版 Jagged Alliance 2 安装文件。",
+            "zh-Hant": "需要受支援的經典版 Jagged Alliance 2 安裝檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openjazz",
+      "names": {
+        "en": "Jazz Jackrabbit",
+        "zh-Hans": "爵士兔",
+        "zh-Hant": "爵士兔"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openjazz/",
+        "zh-Hans": "https://www.xsmth.com/games/openjazz/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openjazz/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/902/jazz-jackrabbit/",
+          "edition": "Jazz Jackrabbit (1994)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "AlisterT/openjazz",
+          "url": "https://github.com/AlisterT/openjazz",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/AlisterT/openjazz/releases",
+            "macOS": "https://github.com/AlisterT/openjazz#readme",
+            "Windows": "https://github.com/AlisterT/openjazz/releases/tag/20260301"
+          },
+          "data_requirements": {
+            "en": "Supply the original Jazz Jackrabbit game data.",
+            "zh-Hans": "准备原版 Jazz Jackrabbit 的游戏数据。",
+            "zh-Hant": "準備原版 Jazz Jackrabbit 的遊戲資料。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the levels and game files from a supported edition of Jazz Jackrabbit.",
+            "zh-Hans": "提供受支持版本的原版关卡与数据文件。",
+            "zh-Hant": "提供受支援版本的原版關卡與資料檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jazz2-resurrection",
+      "names": {
+        "en": "Jazz Jackrabbit 2",
+        "zh-Hans": "爵士兔 2",
+        "zh-Hant": "爵士兔 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/jazz2-resurrection/",
+        "zh-Hans": "https://www.xsmth.com/games/jazz2-resurrection/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/jazz2-resurrection/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1348/jazz-jackrabbit-2/",
+          "edition": "Jazz Jackrabbit 2 (1998)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/1348/jazz-jackrabbit-2/",
+          "edition": "Jazz Jackrabbit 2 (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "deathkiller/jazz2",
+          "url": "https://github.com/deathkiller/jazz2",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/deathkiller/jazz2#readme",
+            "iOS": "https://github.com/deathkiller/jazz2#readme",
+            "macOS": "https://github.com/deathkiller/jazz2/releases/tag/3.9.0",
+            "Windows": "https://github.com/deathkiller/jazz2/releases/tag/3.9.0"
+          },
+          "data_requirements": {
+            "en": "Copy your original installation's contents into the specified Source folder.",
+            "zh-Hans": "把原版游戏目录内容复制到项目指定的 Source 文件夹。",
+            "zh-Hant": "把原版遊戲目錄內容複製到專案指定的 Source 資料夾。"
+          },
+          "desktop_data_requirements": {
+            "en": "Copy the files from a supported Jazz Jackrabbit 2 installation to the Source directory specified by the project.",
+            "zh-Hans": "把受支持的 Jazz Jackrabbit 2 安装文件复制到项目说明指定的 Source 目录。",
+            "zh-Hant": "把受支援的 Jazz Jackrabbit 2 安裝檔案複製到專案說明指定的 Source 目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lego-island",
+      "names": {
+        "en": "LEGO Island",
+        "zh-Hans": "乐高岛",
+        "zh-Hant": "樂高島"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/lego-island/",
+        "zh-Hans": "https://www.xsmth.com/games/lego-island/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/lego-island/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/5188/lego-island/",
+          "edition": "LEGO Island (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "isledecomp/isle-portable",
+          "url": "https://github.com/isledecomp/isle-portable",
+          "original_platform": "PC",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/isledecomp/isle-portable#readme",
+            "iOS": "https://github.com/isledecomp/isle-portable#readme",
+            "macOS": "https://github.com/isledecomp/isle-portable#readme",
+            "Windows": "https://github.com/isledecomp/isle-portable#readme"
+          },
+          "data_requirements": {
+            "en": "Use the setup wizard with original data compatible with the English 1.1 release.",
+            "zh-Hans": "使用该项目安装向导，准备与英文 1.1 版兼容的原版数据。",
+            "zh-Hant": "使用該專案安裝嚮導，準備與英文 1.1 版相容的原版資料。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the setup wizard with the required files from your compatible English copy of LEGO Island.",
+            "zh-Hans": "按项目安装向导提供兼容的、自己持有的英文版 LEGO Island 文件。",
+            "zh-Hant": "按專案安裝嚮導提供相容的、自己持有的英文版 LEGO Island 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lba2",
+      "names": {
+        "en": "Little Big Adventure 2",
+        "zh-Hans": "小小大冒险 2",
+        "zh-Hant": "小小大冒險 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/lba2/",
+        "zh-Hans": "https://www.xsmth.com/games/lba2/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/lba2/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/1765/twinsens-odyssey/",
+          "edition": "Twinsen's Odyssey (1997)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/1765/twinsens-odyssey/",
+          "edition": "Twinsen's Odyssey (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "LBALab/lba2-classic-community",
+          "url": "https://github.com/LBALab/lba2-classic-community",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/LBALab/lba2-classic-community#readme"
+          },
+          "data_requirements": {
+            "en": "Supply the classic game data from GOG, Steam or an original disc.",
+            "zh-Hans": "提供 GOG、Steam 或原版光盘中的经典版游戏数据。",
+            "zh-Hant": "提供 GOG、Steam 或原版光碟中的經典版遊戲資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "marathon-android",
+      "names": {
+        "en": "Marathon Trilogy",
+        "zh-Hans": "马拉松三部曲",
+        "zh-Hant": "馬拉松三部曲"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/marathon-android/",
+        "zh-Hans": "https://www.xsmth.com/games/marathon-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/marathon-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/22079/marathon/",
+          "edition": "Marathon (1994)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "daniele-rapagnani/alephone-android",
+          "url": "https://github.com/daniele-rapagnani/alephone-android",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/daniele-rapagnani/alephone-android"
+          },
+          "data_requirements": {
+            "en": "Choose the APK for the desired installment from Releases.",
+            "zh-Hans": "从 Releases 选择对应章节的 APK。",
+            "zh-Hant": "從 Releases 選擇對應章節的 APK。"
+          }
+        },
+        {
+          "repository": "TrajansRow/marathon-ios",
+          "url": "https://github.com/TrajansRow/marathon-ios",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://marathon-ios.com/open-source.html"
+          },
+          "data_requirements": {
+            "en": "The store releases include the game assets.",
+            "zh-Hans": "商店发行版随附游戏素材。",
+            "zh-Hant": "商店發行版隨附遊戲素材。"
+          }
+        },
+        {
+          "repository": "Aleph-One-Marathon/alephone",
+          "url": "https://github.com/Aleph-One-Marathon/alephone",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://alephone.lhowon.org/download.html",
+            "Windows": "https://alephone.lhowon.org/download.html"
+          },
+          "data_requirements": {
+            "en": "Choose a complete game download to get both the engine and a scenario, or supply scenario data when using the standalone engine.",
+            "zh-Hans": "选完整游戏包可同时取得引擎与对应场景。单独安装引擎时需另配 Marathon 场景数据。",
+            "zh-Hant": "選完整遊戲包可同時取得引擎與對應場景。單獨安裝引擎時需另配 Marathon 場景資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mario-kart-64",
+      "names": {
+        "en": "Mario Kart 64",
+        "zh-Hans": "马力欧卡丁车64",
+        "zh-Hant": "瑪利歐卡丁車64"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/mario-kart-64/",
+        "zh-Hans": "https://www.xsmth.com/games/mario-kart-64/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/mario-kart-64/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "izzy2lost/SpaghettiKart",
+          "url": "https://github.com/izzy2lost/SpaghettiKart",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/izzy2lost/SpaghettiKart/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Check the SHA-1 of your US Mario Kart 64 ROM against the project documentation.",
+            "zh-Hans": "准备美版《Mario Kart 64》ROM 并核对项目列出的 SHA-1。",
+            "zh-Hant": "準備美版《Mario Kart 64》ROM 並核對專案列出的 SHA-1。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mario-kart-wii",
+      "names": {
+        "en": "Mario Kart Wii",
+        "zh-Hans": "马力欧卡丁车Wii",
+        "zh-Hant": "瑪利歐卡丁車Wii"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/mario-kart-wii/",
+        "zh-Hans": "https://www.xsmth.com/games/mario-kart-wii/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/mario-kart-wii/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "dorPXP/driftdroid",
+          "url": "https://github.com/dorPXP/driftdroid",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/dorPXP/driftdroid/blob/android-port/README.md"
+          },
+          "data_requirements": {
+            "en": "Select a supported image of your own Wii disc. The device extracts tracks and music.",
+            "zh-Hans": "选择自己转储的受支持 Wii 光盘镜像，手机会提取赛道和音乐。",
+            "zh-Hant": "選擇自己轉儲的受支援 Wii 光碟映象，手機會提取賽道和音樂。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "master-of-orion",
+      "names": {
+        "en": "Master of Orion",
+        "zh-Hans": "银河霸主",
+        "zh-Hant": "銀河霸主"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/master-of-orion/",
+        "zh-Hans": "https://www.xsmth.com/games/master-of-orion/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/master-of-orion/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/212/master-of-orion/",
+          "edition": "Master of Orion (1993)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "JamesSmartCell/android-1oom",
+          "url": "https://github.com/JamesSmartCell/android-1oom",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/JamesSmartCell/android-1oom"
+          },
+          "data_requirements": {
+            "en": "Import LBX data files from DOS Master of Orion 1.3.",
+            "zh-Hans": "导入 DOS 版 Master of Orion 1.3 的 LBX 数据文件。",
+            "zh-Hant": "匯入 DOS 版 Master of Orion 1.3 的 LBX 資料檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openenroth",
+      "names": {
+        "en": "Might and Magic VII: For Blood and Honor",
+        "zh-Hans": "魔法门 VII：血统与荣耀",
+        "zh-Hant": "魔法門 VII：血統與榮耀"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openenroth/",
+        "zh-Hans": "https://www.xsmth.com/games/openenroth/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openenroth/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/645/might-and-magic-vii-for-blood-and-honor/",
+          "edition": "Might and Magic VII: For Blood and Honor (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenEnroth/OpenEnroth",
+          "url": "https://github.com/OpenEnroth/OpenEnroth",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/OpenEnroth/OpenEnroth"
+          },
+          "data_requirements": {
+            "en": "Copy the specified data directories from your own Might and Magic VII installation.",
+            "zh-Hans": "从自己的《魔法门 VII》安装目录复制项目指定的数据目录。",
+            "zh-Hant": "從自己的《魔法門 VII》安裝目錄複製專案指定的資料目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "goemon-64",
+      "names": {
+        "en": "Mystical Ninja Starring Goemon",
+        "zh-Hans": "大盗伍右卫门",
+        "zh-Hant": "大盜伍右衛門"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/goemon-64/",
+        "zh-Hans": "https://www.xsmth.com/games/goemon-64/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/goemon-64/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "ogdanimal/Goemon64Recomp-Android",
+          "url": "https://github.com/ogdanimal/Goemon64Recomp-Android",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/ogdanimal/Goemon64Recomp-Android/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Use the system file picker at first launch to import a supported ROM from your own copy.",
+            "zh-Hans": "首次启动通过系统文件选择器导入项目支持的自有 ROM。",
+            "zh-Hant": "首次啟動通過系統檔案選擇器匯入專案支援的自有 ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nfs-ii-se",
+      "names": {
+        "en": "Need for Speed II SE",
+        "zh-Hans": "极品飞车 II 特别版",
+        "zh-Hant": "極品飛車 II 特別版"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/nfs-ii-se/",
+        "zh-Hans": "https://www.xsmth.com/games/nfs-ii-se/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/nfs-ii-se/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/2113/need-for-speed-ii-se/releases/windows/",
+          "edition": "Need for Speed II: SE (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "SDL-Works/NFSIISE-Game",
+          "url": "https://github.com/SDL-Works/NFSIISE-Game",
+          "original_platform": "PC",
+          "port_type": "Compatible engine",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/SDL-Works/NFSIISE-Game"
+          },
+          "data_requirements": {
+            "en": "Import original Special Edition data. Standard edition data is incompatible.",
+            "zh-Hans": "导入特别版原始数据，普通版数据不兼容。",
+            "zh-Hant": "匯入特別版原始資料，普通版資料不相容。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nethack-android",
+      "names": {
+        "en": "NetHack",
+        "zh-Hans": "NetHack",
+        "zh-Hant": "NetHack"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/nethack-android/",
+        "zh-Hans": "https://www.xsmth.com/games/nethack-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/nethack-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/820/nethack/",
+          "edition": "NetHack (1987)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/820/nethack/",
+          "edition": "NetHack (1989)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.nethack.org/v360/downloads.html",
+          "edition": "NetHack 3.6.0 (official binaries)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.nethack.org/v360/downloads.html",
+          "edition": "NetHack 3.6.0 (official binaries)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "gurrhack/NetHack-Android",
+          "url": "https://github.com/gurrhack/NetHack-Android",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/gurrhack/NetHack-Android"
+          },
+          "data_requirements": {
+            "en": "Install the project's Android release.",
+            "zh-Hans": "使用项目提供的 Android 发行包。",
+            "zh-Hant": "使用專案提供的 Android 發行包。"
+          }
+        },
+        {
+          "repository": "doucej/iNetHack3",
+          "url": "https://github.com/doucej/iNetHack3",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/doucej/iNetHack3"
+          },
+          "data_requirements": {
+            "en": "Use the iOS release corresponding to the project.",
+            "zh-Hans": "使用项目对应的 iOS 版本。",
+            "zh-Hant": "使用專案對應的 iOS 版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "osu-lazer",
+      "names": {
+        "en": "osu!",
+        "zh-Hans": "osu!",
+        "zh-Hant": "osu!"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/osu-lazer/",
+        "zh-Hans": "https://www.xsmth.com/games/osu-lazer/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/osu-lazer/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/73891/osu/",
+          "edition": "osu! (2007)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://github.com/ppy/osu",
+          "edition": "osu!(lazer) (official desktop client)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://github.com/ppy/osu",
+          "edition": "osu!(lazer) (official desktop client)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "ppy/osu",
+          "url": "https://github.com/ppy/osu",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/ppy/osu",
+            "iOS": "https://github.com/ppy/osu",
+            "macOS": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer",
+            "Windows": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer"
+          },
+          "data_requirements": {
+            "en": "Download the client from the project, then add beatmaps.",
+            "zh-Hans": "从项目下载客户端，再添加曲目谱面。",
+            "zh-Hant": "從專案下載客戶端，再新增曲目譜面。"
+          },
+          "desktop_data_requirements": {
+            "en": "Install the client, then add the beatmaps and tracks you want to play.",
+            "zh-Hans": "安装客户端后按需添加谱面与曲目。",
+            "zh-Hant": "安裝客戶端後按需新增譜面與曲目。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perfect-dark",
+      "names": {
+        "en": "Perfect Dark",
+        "zh-Hans": "完美黑暗",
+        "zh-Hant": "完美女煞星"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/perfect-dark/",
+        "zh-Hans": "https://www.xsmth.com/games/perfect-dark/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/perfect-dark/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "Mr4xd3mn/perfect-dark-android",
+          "url": "https://github.com/Mr4xd3mn/perfect-dark-android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Mr4xd3mn/perfect-dark-android/blob/main/android/README.md"
+          },
+          "data_requirements": {
+            "en": "Select your ROM on first launch. The developers recommend the US Rev 1 release.",
+            "zh-Hans": "首次启动选择自己的 ROM，项目推荐美版 Rev 1。",
+            "zh-Hant": "首次啟動選擇自己的 ROM，專案推薦美版 Rev 1。"
+          }
+        },
+        {
+          "repository": "perfect-dark-pc-port/perfect_dark",
+          "url": "https://github.com/perfect-dark-pc-port/perfect_dark",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/perfect-dark-pc-port/perfect_dark#readme",
+            "Windows": "https://github.com/perfect-dark-pc-port/perfect_dark#readme"
+          },
+          "data_requirements": {
+            "en": "Place your own Perfect Dark N64 ROM in the data directory. Match its region and filename to the executable as described by the project.",
+            "zh-Hans": "将自己的 N64 Perfect Dark ROM 放入 data 目录；地区版本、文件名与所用程序需按仓库说明匹配。",
+            "zh-Hant": "將自己的 N64 Perfect Dark ROM 放入 data 目錄；地區版本、檔名與所用程式需按倉庫說明匹配。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pvz-portable",
+      "names": {
+        "en": "Plants vs. Zombies: Game of the Year Edition",
+        "zh-Hans": "植物大战僵尸：年度版",
+        "zh-Hant": "植物大戰殭屍：年度版"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/pvz-portable/",
+        "zh-Hans": "https://www.xsmth.com/games/pvz-portable/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/pvz-portable/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/3590/",
+          "edition": "Plants vs. Zombies: Game of the Year Edition (PopCap)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/3590/",
+          "edition": "Plants vs. Zombies: Game of the Year Edition (PopCap)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "wszqkzqk/PvZ-Portable",
+          "url": "https://github.com/wszqkzqk/PvZ-Portable",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/wszqkzqk/PvZ-Portable",
+            "iOS": "https://github.com/wszqkzqk/PvZ-Portable"
+          },
+          "data_requirements": {
+            "en": "Import main.pak and the properties folder from your copy of the GOTY edition.",
+            "zh-Hans": "导入正版年度版的 main.pak 和 properties 文件夹。",
+            "zh-Hant": "匯入正版年度版的 main.pak 和 properties 資料夾。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pokemon-gen1",
+      "names": {
+        "en": "Pokémon Red, Blue & Yellow",
+        "zh-Hans": "宝可梦 红／蓝／皮卡丘",
+        "zh-Hant": "寶可夢 紅／藍／皮卡丘"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/pokemon-gen1/",
+        "zh-Hans": "https://www.xsmth.com/games/pokemon-gen1/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/pokemon-gen1/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "bryanthaboi/gen1recomp",
+          "url": "https://github.com/bryanthaboi/gen1recomp",
+          "original_platform": "Console",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/bryanthaboi/gen1recomp/blob/dev/.github/workflows/release.yml",
+            "iOS": "https://github.com/bryanthaboi/gen1recomp/blob/dev/.github/workflows/release.yml"
+          },
+          "data_requirements": {
+            "en": "Use a supported US ROM and match its checksum to the project list.",
+            "zh-Hans": "导入文档所列的美版原始 ROM，校验值必须与清单相符。",
+            "zh-Hant": "匯入文件所列的美版原始 ROM，校驗值必須與清單相符。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pokemon-snap",
+      "names": {
+        "en": "Pokémon Snap",
+        "zh-Hans": "宝可梦随乐拍",
+        "zh-Hant": "寶可夢隨樂拍"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/pokemon-snap/",
+        "zh-Hans": "https://www.xsmth.com/games/pokemon-snap/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/pokemon-snap/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "JackandBeans/Snap64Recomp",
+          "url": "https://github.com/JackandBeans/Snap64Recomp",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/JackandBeans/Snap64Recomp/blob/main/docs/ANDROID.md"
+          },
+          "data_requirements": {
+            "en": "Use a US cartridge dump. Images from other regions cannot be imported by this build.",
+            "zh-Hans": "使用美版原始卡带 ROM，其他地区的镜像无法导入。",
+            "zh-Hant": "使用美版原始卡帶 ROM，其他地區的映象無法匯入。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quake-iphone",
+      "names": {
+        "en": "Quake",
+        "zh-Hans": "雷神之锤",
+        "zh-Hant": "雷神之錘"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/quake-iphone/",
+        "zh-Hans": "https://www.xsmth.com/games/quake-iphone/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/quake-iphone/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/374/quake/",
+          "edition": "Quake (1996)"
+        },
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/374/quake/",
+          "edition": "Quake (1996)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/374/quake/",
+          "edition": "Quake (1996)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/374/quake/",
+          "edition": "Quake (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "tomkidd/Quake-iOS",
+          "url": "https://github.com/tomkidd/Quake-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/tomkidd/Quake-iOS"
+          },
+          "data_requirements": {
+            "en": "Import the id1 folder and lowercase the PAK filenames as directed.",
+            "zh-Hans": "导入 id1 目录，按说明将 PAK 文件名改为小写。",
+            "zh-Hant": "匯入 id1 目錄，按說明將 PAK 檔名改為小寫。"
+          }
+        },
+        {
+          "repository": "rebelancap/vkQuake-ios",
+          "url": "https://github.com/rebelancap/vkQuake-ios",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/rebelancap/vkQuake-ios"
+          },
+          "data_requirements": {
+            "en": "Import id1 data from your own copy.",
+            "zh-Hans": "导入自己游戏副本中的 id1 数据。",
+            "zh-Hant": "匯入自己遊戲副本中的 id1 資料。"
+          }
+        },
+        {
+          "repository": "sandstranger/com.mobilerpgpack.phone",
+          "url": "https://github.com/sandstranger/com.mobilerpgpack.phone",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/sandstranger/com.mobilerpgpack.phone"
+          },
+          "data_requirements": {
+            "en": "Use the original PC files. For the first Quake, supply the PAK files in id1.",
+            "zh-Hans": "使用对应 PC 版的原始资源。初代 Quake 需要 id1 中的 PAK 文件。",
+            "zh-Hant": "使用對應 PC 版的原始資源。初代 Quake 需要 id1 中的 PAK 檔案。"
+          }
+        },
+        {
+          "repository": "Novum/vkQuake",
+          "url": "https://github.com/Novum/vkQuake",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/Novum/vkQuake#macos",
+            "Windows": "https://github.com/Novum/vkQuake/releases/tag/1.37.0"
+          },
+          "data_requirements": {
+            "en": "Use the appropriate PAK files from the id1 directory of your registered or shareware Quake installation.",
+            "zh-Hans": "从原版或共享版 Quake 导入 id1 目录下对应的 PAK 文件。",
+            "zh-Hant": "從原版或共享版 Quake 匯入 id1 目錄下對應的 PAK 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "idtech4a",
+      "names": {
+        "en": "Quake 4, Prey & id Tech games",
+        "zh-Hans": "雷神之锤 4、掠食等",
+        "zh-Hant": "雷神之錘 4、掠食等"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/idtech4a/",
+        "zh-Hans": "https://www.xsmth.com/games/idtech4a/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/idtech4a/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/19650/quake-4/",
+          "edition": "Quake 4 (2005)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/19650/quake-4/",
+          "edition": "Quake 4 (2005)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.aspyr.de/quake4/",
+          "edition": "Quake 4 (Aspyr Mac OS X release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "glKarin/com.n0n3m4.diii4a",
+          "url": "https://github.com/glKarin/com.n0n3m4.diii4a",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/glKarin/com.n0n3m4.diii4a"
+          },
+          "data_requirements": {
+            "en": "Create the directories listed for each title and import the matching PC data.",
+            "zh-Hans": "按仓库游戏列表建立目录，导入对应 PC 版数据。",
+            "zh-Hant": "按倉庫遊戲列表建立目錄，匯入對應 PC 版資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quake-ii",
+      "names": {
+        "en": "Quake II",
+        "zh-Hans": "雷神之锤 II",
+        "zh-Hant": "雷神之錘 II"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/quake-ii/",
+        "zh-Hans": "https://www.xsmth.com/games/quake-ii/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/quake-ii/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/405/quake-ii/",
+          "edition": "Quake II (1997)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/405/quake-ii/",
+          "edition": "Quake II (1998)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/405/quake-ii/",
+          "edition": "Quake II (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "tomkidd/Quake2-iOS",
+          "url": "https://github.com/tomkidd/Quake2-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/tomkidd/Quake2-iOS"
+          },
+          "data_requirements": {
+            "en": "The base game requires baseq2. The expansions require xatrix or rogue.",
+            "zh-Hans": "本体需要 baseq2，资料片另需 xatrix 或 rogue。",
+            "zh-Hant": "本體需要 baseq2，資料片另需 xatrix 或 rogue。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quake-iii",
+      "names": {
+        "en": "Quake III Arena",
+        "zh-Hans": "雷神之锤 III：竞技场",
+        "zh-Hant": "雷神之錘 III：競技場"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/quake-iii/",
+        "zh-Hans": "https://www.xsmth.com/games/quake-iii/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/quake-iii/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/649/quake-iii-arena/",
+          "edition": "Quake III: Arena (1999)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/649/quake-iii-arena/",
+          "edition": "Quake III: Arena (1999)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/649/quake-iii-arena/",
+          "edition": "Quake III: Arena (1999)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.macworld.com/article/156449/quake-2.html",
+          "edition": "Quake III Arena (id Software’s 1.32 Mac OS X release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "tomkidd/Quake3-iOS",
+          "url": "https://github.com/tomkidd/Quake3-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/tomkidd/Quake3-iOS"
+          },
+          "data_requirements": {
+            "en": "Copy baseq3 from the PC game and add it to the Xcode project as directed.",
+            "zh-Hans": "从 PC 版复制 baseq3，并按说明加入 Xcode 工程。",
+            "zh-Hant": "從 PC 版複製 baseq3，並按說明加入 Xcode 工程。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "raptor",
+      "names": {
+        "en": "Raptor: Call of the Shadows",
+        "zh-Hans": "猛禽：暗影召唤",
+        "zh-Hant": "猛禽：暗影召喚"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/raptor/",
+        "zh-Hans": "https://www.xsmth.com/games/raptor/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/raptor/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/511/raptor-call-of-the-shadows/",
+          "edition": "Raptor: Call of the Shadows (1994)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "skynettx/raptor",
+          "url": "https://github.com/skynettx/raptor",
+          "original_platform": "PC",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/skynettx/raptor"
+          },
+          "data_requirements": {
+            "en": "Import GLB files from version 1.2 or later. Both shareware and full game data are supported.",
+            "zh-Hans": "导入 1.2 或更高版本的 GLB 文件，支持共享版和完整版。",
+            "zh-Hant": "匯入 1.2 或更高版本的 GLB 檔案，支援共享版和完整版。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rtcw-ios",
+      "names": {
+        "en": "Return to Castle Wolfenstein",
+        "zh-Hans": "重返德军总部",
+        "zh-Hant": "重返德軍總部"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/rtcw-ios/",
+        "zh-Hans": "https://www.xsmth.com/games/rtcw-ios/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/rtcw-ios/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/5385/return-to-castle-wolfenstein/",
+          "edition": "Return to Castle Wolfenstein (2001)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/5385/return-to-castle-wolfenstein/",
+          "edition": "Return to Castle Wolfenstein (2002)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.macworld.com/article/153657/rtcw.html",
+          "edition": "Return to Castle Wolfenstein (Aspyr Macintosh release, 2002)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "tomkidd/RTCW-iOS",
+          "url": "https://github.com/tomkidd/RTCW-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/tomkidd/RTCW-iOS"
+          },
+          "data_requirements": {
+            "en": "Supply the PC game's Main directory and copy the repository's vm folder.",
+            "zh-Hans": "准备 PC 版 Main 目录，并复制仓库提供的 vm 文件夹。",
+            "zh-Hant": "準備 PC 版 Main 目錄，並複製倉庫提供的 vm 資料夾。"
+          }
+        },
+        {
+          "repository": "emileb/OpenGames",
+          "url": "https://github.com/emileb/OpenGames",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/emileb/OpenGames/tree/master/rtcw"
+          },
+          "data_requirements": {
+            "en": "Supply the PC game data. This entry links to historical build source.",
+            "zh-Hans": "需准备 PC 版游戏数据。此项提供历史构建源码。",
+            "zh-Hant": "需準備 PC 版遊戲資料。此項提供歷史構建原始碼。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openrct2",
+      "names": {
+        "en": "RollerCoaster Tycoon 2",
+        "zh-Hans": "过山车大亨 2",
+        "zh-Hant": "過山車大亨 2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openrct2/",
+        "zh-Hans": "https://www.xsmth.com/games/openrct2/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openrct2/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/7491/rollercoaster-tycoon-2/releases/windows/",
+          "edition": "RollerCoaster Tycoon 2 (2002)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenRCT2/OpenRCT2",
+          "url": "https://github.com/OpenRCT2/OpenRCT2",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/OpenRCT2/OpenRCT2/wiki/Android",
+            "macOS": "https://docs.openrct2.io/en/latest/installing/installing-on-macos.html",
+            "Windows": "https://docs.openrct2.io/en/latest/installing/installing-on-windows.html"
+          },
+          "data_requirements": {
+            "en": "Follow the Android guide to import original RCT2 assets and supporting files.",
+            "zh-Hans": "按 Android 安装指南导入原版 RCT2 的素材和配套文件。",
+            "zh-Hant": "按 Android 安裝指南匯入原版 RCT2 的素材和配套檔案。"
+          },
+          "desktop_data_requirements": {
+            "en": "Provide files from your copy of RollerCoaster Tycoon 2 or a supported RCT Classic installation and select the game directory when prompted.",
+            "zh-Hans": "准备自己持有的 RollerCoaster Tycoon 2 或兼容的 RCT Classic 数据，启动时按指引选取游戏目录。",
+            "zh-Hant": "準備自己持有的 RollerCoaster Tycoon 2 或相容的 RCT Classic 資料，啟動時按指引選取遊戲目錄。"
+          }
+        },
+        {
+          "repository": "chrissotraidis/OpenRCT2Touch",
+          "url": "https://github.com/chrissotraidis/OpenRCT2Touch",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "iPadOS"
+          ],
+          "platform_evidence": {
+            "iPadOS": "https://github.com/chrissotraidis/OpenRCT2Touch/blob/ipad/readme.md"
+          },
+          "data_requirements": {
+            "en": "Sign the app with Xcode and import your own RCT2 data using Files.",
+            "zh-Hans": "使用 Xcode 签名安装，从「文件」导入自己持有的 RCT2 数据。",
+            "zh-Hant": "使用 Xcode 簽名安裝，從「檔案」匯入自己持有的 RCT2 資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "serious-sam-second",
+      "names": {
+        "en": "Serious Sam: The Second Encounter",
+        "zh-Hans": "英雄萨姆：二次遭遇",
+        "zh-Hant": "英雄薩姆：二次遭遇"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/serious-sam-second/",
+        "zh-Hans": "https://www.xsmth.com/games/serious-sam-second/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/serious-sam-second/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/41060/",
+          "edition": "Serious Sam: The Second Encounter (2002)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "aarcangeli/Serious-Sam-Android",
+          "url": "https://github.com/aarcangeli/Serious-Sam-Android",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/aarcangeli/Serious-Sam-Android"
+          },
+          "data_requirements": {
+            "en": "Copy the .gro archives from the classic PC version.",
+            "zh-Hans": "复制经典版 PC 安装目录内的 .gro 文件。",
+            "zh-Hant": "複製經典版 PC 安裝目錄內的 .gro 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "silent-hill-ps1",
+      "names": {
+        "en": "Silent Hill",
+        "zh-Hans": "寂静岭",
+        "zh-Hant": "沉默之丘"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/silent-hill-ps1/",
+        "zh-Hans": "https://www.xsmth.com/games/silent-hill-ps1/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/silent-hill-ps1/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "SlickAmogus/silent-hill-decomp",
+          "url": "https://github.com/SlickAmogus/silent-hill-decomp",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/SlickAmogus/silent-hill-decomp/blob/pc-port/README.md",
+            "iOS": "https://github.com/SlickAmogus/silent-hill-decomp/blob/pc-port/README.md"
+          },
+          "data_requirements": {
+            "en": "Follow the project's instructions for supplying an image of your own Silent Hill disc.",
+            "zh-Hans": "按项目说明提供自己的初代《寂静岭》光盘镜像。",
+            "zh-Hant": "按專案說明提供自己的初代《寂靜嶺》光碟映象。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sgt-puzzles",
+      "names": {
+        "en": "Simon Tatham’s Portable Puzzle Collection",
+        "zh-Hans": "西蒙·泰瑟姆益智游戏集",
+        "zh-Hant": "西蒙·泰瑟姆益智遊戲集"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sgt-puzzles/",
+        "zh-Hans": "https://www.xsmth.com/games/sgt-puzzles/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sgt-puzzles/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/42205/simon-tathams-portable-puzzle-collection/",
+          "edition": "Simon Tatham's Portable Puzzle Collection (2008)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/42205/simon-tathams-portable-puzzle-collection/",
+          "edition": "Simon Tatham's Portable Puzzle Collection (2008)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/index.html",
+          "edition": "Simon Tatham’s Portable Puzzle Collection (historical Mac build)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "chrisboyle/sgtpuzzles",
+          "url": "https://github.com/chrisboyle/sgtpuzzles",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/chrisboyle/sgtpuzzles"
+          },
+          "data_requirements": {
+            "en": "Install the project's Android release.",
+            "zh-Hans": "安装项目发布的 Android 版即可游玩。",
+            "zh-Hant": "安裝專案釋出的 Android 版即可遊玩。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sonic-cd",
+      "names": {
+        "en": "Sonic CD",
+        "zh-Hans": "索尼克CD",
+        "zh-Hant": "索尼克CD"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sonic-cd/",
+        "zh-Hans": "https://www.xsmth.com/games/sonic-cd/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sonic-cd/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "RSDKModding/RSDKv3-Decompilation",
+          "url": "https://github.com/RSDKModding/RSDKv3-Decompilation",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/RSDKModding/RSDKv3-Decompilation/blob/master/README.md",
+            "macOS": "https://github.com/RSDKModding/RSDKv3-Decompilation/releases/tag/1.3.3",
+            "Windows": "https://github.com/RSDKModding/RSDKv3-Decompilation/releases/tag/1.3.3"
+          },
+          "data_requirements": {
+            "en": "Extract Data.rsdk from a compatible edition of Sonic CD.",
+            "zh-Hans": "从兼容的《Sonic CD》版本提取 Data.rsdk。",
+            "zh-Hant": "從相容的《Sonic CD》版本提取 Data.rsdk。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply Data.rsdk from a supported copy of the 2011 Sonic CD release.",
+            "zh-Hans": "从受支持的 2011 版 Sonic CD 获取自己的 Data.rsdk。",
+            "zh-Hant": "從受支援的 2011 版 Sonic CD 獲取自己的 Data.rsdk。"
+          }
+        },
+        {
+          "repository": "RadiantDelux/RSDKv3-Decompilation-iOS",
+          "url": "https://github.com/RadiantDelux/RSDKv3-Decompilation-iOS",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/RadiantDelux/RSDKv3-Decompilation-iOS/blob/master/README.md"
+          },
+          "data_requirements": {
+            "en": "Sign and install the IPA, then import Data.rsdk with the Files app.",
+            "zh-Hans": "自行签名安装 IPA，再通过“文件”App 导入 Data.rsdk。",
+            "zh-Hant": "自行簽名安裝 IPA，再通過“檔案”App 匯入 Data.rsdk。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sonic-mania",
+      "names": {
+        "en": "Sonic Mania",
+        "zh-Hans": "索尼克 狂欢",
+        "zh-Hant": "索尼克 狂歡"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sonic-mania/",
+        "zh-Hans": "https://www.xsmth.com/games/sonic-mania/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sonic-mania/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/584400/",
+          "edition": "Sonic Mania (2017)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "RSDKModding/Sonic-Mania-Decompilation",
+          "url": "https://github.com/RSDKModding/Sonic-Mania-Decompilation",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/RSDKModding/Sonic-Mania-Decompilation/blob/master/README.md",
+            "Windows": "https://github.com/RSDKModding/Sonic-Mania-Decompilation/releases/tag/v1.1.1"
+          },
+          "data_requirements": {
+            "en": "Extract Data.rsdk from a supported edition. Data from the Netflix version is incompatible.",
+            "zh-Hans": "从受支持的原作提取 Data.rsdk，Netflix 版数据不兼容。",
+            "zh-Hant": "從受支援的原作提取 Data.rsdk，Netflix 版資料不相容。"
+          },
+          "desktop_data_requirements": {
+            "en": "Provide Data.rsdk from a supported copy of Sonic Mania and use matching engine and game-logic builds.",
+            "zh-Hans": "提供受支持版本的 Sonic Mania Data.rsdk，并按项目说明准备引擎及匹配的游戏逻辑。",
+            "zh-Hant": "提供受支援版本的 Sonic Mania Data.rsdk，並按專案說明準備引擎及匹配的遊戲邏輯。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sonic-1-2",
+      "names": {
+        "en": "Sonic the Hedgehog 1 & 2",
+        "zh-Hans": "刺猬索尼克 1 与 2",
+        "zh-Hant": "索尼克／索尼克2"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sonic-1-2/",
+        "zh-Hans": "https://www.xsmth.com/games/sonic-1-2/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sonic-1-2/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "RSDKModding/RSDKv4-Decompilation",
+          "url": "https://github.com/RSDKModding/RSDKv4-Decompilation",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/RSDKModding/RSDKv4-Decompilation/blob/main/README.md",
+            "Windows": "https://github.com/RSDKModding/RSDKv4-Decompilation/releases/tag/1.3.3"
+          },
+          "data_requirements": {
+            "en": "Supply the data package for the title you own. See the project for version differences and extraction steps.",
+            "zh-Hans": "准备对应作品的数据包，提取方式和版本差异见项目说明。",
+            "zh-Hant": "準備對應作品的資料包，提取方式和版本差異見專案說明。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the matching Data.rsdk file from a supported edition of the game you intend to play.",
+            "zh-Hans": "从受支持的对应游戏取得 Data.rsdk，使用与所选游戏匹配的版本。",
+            "zh-Hant": "從受支援的對應遊戲取得 Data.rsdk，使用與所選遊戲匹配的版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spelunky-classic",
+      "names": {
+        "en": "Spelunky Classic HD",
+        "zh-Hans": "洞穴探险：经典版",
+        "zh-Hant": "洞穴探險：經典版"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/spelunky-classic/",
+        "zh-Hans": "https://www.xsmth.com/games/spelunky-classic/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/spelunky-classic/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://spelunkyworld.com/info.html",
+          "edition": "Spelunky Classic (2008 freeware release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "yancharkin/SpelunkyClassicHD",
+          "url": "https://github.com/yancharkin/SpelunkyClassicHD",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/yancharkin/SpelunkyClassicHD/releases"
+          },
+          "data_requirements": {
+            "en": "Get the Android package from the project's Releases page.",
+            "zh-Hans": "从项目 Releases 获取 Android 发行包。",
+            "zh-Hant": "從專案 Releases 獲取 Android 發行包。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "star-fox-64",
+      "names": {
+        "en": "Star Fox 64",
+        "zh-Hans": "星际火狐64",
+        "zh-Hant": "星際火狐64"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/star-fox-64/",
+        "zh-Hans": "https://www.xsmth.com/games/star-fox-64/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/star-fox-64/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "izzy2lost/Starship",
+          "url": "https://github.com/izzy2lost/Starship",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/izzy2lost/Starship/releases"
+          },
+          "data_requirements": {
+            "en": "Import the US 1.0 or 1.1 cartridge image in .z64 format.",
+            "zh-Hans": "导入美版 1.0 或 1.1 的 .z64 文件。",
+            "zh-Hant": "匯入美版 1.0 或 1.1 的 .z64 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "psi-touch",
+      "names": {
+        "en": "Star Wars: Dark Forces / Jedi Outcast / Jedi Academy",
+        "zh-Hans": "星球大战：黑暗力量、绝地放逐与绝地学院",
+        "zh-Hant": "星球大戰：黑暗力量、絕地放逐與絕地學院"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/psi-touch/",
+        "zh-Hans": "https://www.xsmth.com/games/psi-touch/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/psi-touch/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/500/star-wars-dark-forces/",
+          "edition": "Star Wars: Dark Forces (1995)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/500/star-wars-dark-forces/",
+          "edition": "Star Wars: Dark Forces (1995)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/6030/",
+          "edition": "STAR WARS Jedi Knight II: Jedi Outcast (Steam edition)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/6030/",
+          "edition": "STAR WARS Jedi Knight II: Jedi Outcast (Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "emileb/Psi_Touch",
+          "url": "https://github.com/emileb/Psi_Touch",
+          "original_platform": "PC",
+          "port_type": "Compatible engine",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/emileb/Psi_Touch/tree/main/PsiTouch/psitouch/src/main/java/com/opentouchgaming/psitouch"
+          },
+          "data_requirements": {
+            "en": "Import PC data for the chosen game. Dark Forces needs GOB files and the LFD folder.",
+            "zh-Hans": "按所选作品导入 PC 版数据。《黑暗力量》需 GOB 文件和 LFD 文件夹。",
+            "zh-Hant": "按所選作品匯入 PC 版資料。《黑暗力量》需 GOB 檔案和 LFD 資料夾。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "starcraft64-recomp",
+      "names": {
+        "en": "StarCraft 64",
+        "zh-Hans": "星际争霸 64",
+        "zh-Hant": "星際爭霸 64"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/starcraft64-recomp/",
+        "zh-Hans": "https://www.xsmth.com/games/starcraft64-recomp/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/starcraft64-recomp/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "n0madic/StarCraft64-recomp",
+          "url": "https://github.com/n0madic/StarCraft64-recomp",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/n0madic/StarCraft64-recomp"
+          },
+          "data_requirements": {
+            "en": "Generate the module on a computer from your own NTSC-U ROM, then import it as directed by the launcher.",
+            "zh-Hans": "在电脑上用自己的 NTSC-U ROM 生成游戏模块，再按启动器提示导入。",
+            "zh-Hant": "在電腦上用自己的 NTSC-U ROM 生成遊戲模組，再按啟動器提示匯入。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sm64-ghostship",
+      "names": {
+        "en": "Super Mario 64",
+        "zh-Hans": "超级马力欧64",
+        "zh-Hant": "超級瑪利歐64"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sm64-ghostship/",
+        "zh-Hans": "https://www.xsmth.com/games/sm64-ghostship/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sm64-ghostship/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "HarbourMasters/Ghostship",
+          "url": "https://github.com/HarbourMasters/Ghostship",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/HarbourMasters/Ghostship/blob/develop/README.md",
+            "macOS": "https://github.com/HarbourMasters/Ghostship/releases/tag/3.0.0",
+            "Windows": "https://github.com/HarbourMasters/Ghostship/releases/tag/3.0.0"
+          },
+          "data_requirements": {
+            "en": "Select a US or Japanese Super Mario 64 cartridge dump in .z64 format.",
+            "zh-Hans": "选择美版或日版《超级马力欧64》的 .z64 镜像。",
+            "zh-Hant": "選擇美版或日版《超級瑪利歐64》的 .z64 映象。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply a supported dump of your own N64 cartridge and match its region to the project’s list.",
+            "zh-Hans": "准备项目接受的自有 N64 ROM，按版本清单核对地区后导入。",
+            "zh-Hant": "準備專案接受的自有 N64 ROM，按版本清單核對地區後匯入。"
+          }
+        },
+        {
+          "repository": "ckosmic/sm64ex-ios",
+          "url": "https://github.com/ckosmic/sm64ex-ios",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/ckosmic/sm64ex-ios/blob/ios/README.md"
+          },
+          "data_requirements": {
+            "en": "Prepare a supported original N64 ROM and follow the project's build wiki.",
+            "zh-Hans": "准备受支持的 N64 原版 ROM，按照项目 Wiki 构建。",
+            "zh-Hant": "準備受支援的 N64 原版 ROM，按照專案 Wiki 構建。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "smbx-thextech",
+      "names": {
+        "en": "Super Mario Bros. X",
+        "zh-Hans": "超级马力欧兄弟 X",
+        "zh-Hant": "超級瑪利歐兄弟 X"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/smbx-thextech/",
+        "zh-Hans": "https://www.xsmth.com/games/smbx-thextech/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/smbx-thextech/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/52024/super-mario-bros-x/",
+          "edition": "Super Mario Bros. X (2009)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "TheXTech/TheXTech",
+          "url": "https://github.com/TheXTech/TheXTech",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/TheXTech/TheXTech"
+          },
+          "data_requirements": {
+            "en": "Install a compatible asset pack and episodes following TheXTech's guide.",
+            "zh-Hans": "按 TheXTech 指引安装兼容的资源包及章节。",
+            "zh-Hant": "按 TheXTech 指引安裝相容的資源包及章節。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "smash-bros-n64",
+      "names": {
+        "en": "Super Smash Bros.",
+        "zh-Hans": "任天堂明星大乱斗",
+        "zh-Hant": "任天堂明星大亂鬥"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/smash-bros-n64/",
+        "zh-Hans": "https://www.xsmth.com/games/smash-bros-n64/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/smash-bros-n64/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "JRickey/BattleShip",
+          "url": "https://github.com/JRickey/BattleShip",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/JRickey/BattleShip/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Match the build to a US 1.0 or Japanese N64 ROM.",
+            "zh-Hans": "选择与构建对应的美版 1.0 或日版 N64 ROM。",
+            "zh-Hant": "選擇與構建對應的美版 1.0 或日版 N64 ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "supertux",
+      "names": {
+        "en": "SuperTux",
+        "zh-Hans": "超级企鹅",
+        "zh-Hant": "超級企鵝"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/supertux/",
+        "zh-Hans": "https://www.xsmth.com/games/supertux/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/supertux/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Linux",
+          "source": "https://www.mobygames.com/game/49987/supertux/",
+          "edition": "SuperTux (2003)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/49987/supertux/",
+          "edition": "SuperTux (2003)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/1572920/",
+          "edition": "SuperTux (Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "SuperTux/supertux",
+          "url": "https://github.com/SuperTux/supertux",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/SuperTux/supertux/releases",
+            "macOS": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0",
+            "Windows": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0"
+          },
+          "data_requirements": {
+            "en": "Install the package distributed by the project.",
+            "zh-Hans": "使用项目发布的游戏包。",
+            "zh-Hant": "使用專案釋出的遊戲包。"
+          },
+          "desktop_data_requirements": {
+            "en": "The official desktop game package supplies the levels and assets.",
+            "zh-Hans": "官方游戏包提供所需素材和关卡。",
+            "zh-Hant": "官方遊戲包提供所需素材和關卡。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "supertuxkart",
+      "names": {
+        "en": "SuperTuxKart",
+        "zh-Hans": "超级企鹅卡丁车",
+        "zh-Hant": "超級企鵝卡丁車"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/supertuxkart/",
+        "zh-Hans": "https://www.xsmth.com/games/supertuxkart/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/supertuxkart/"
+      },
+      "original_platforms": [
+        {
+          "platform": "macOS",
+          "source": "https://supertuxkart.github.io/stk-website/Download",
+          "edition": "SuperTuxKart (official desktop releases)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://supertuxkart.github.io/stk-website/Download",
+          "edition": "SuperTuxKart (official desktop releases)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://supertuxkart.github.io/stk-website/Download",
+          "edition": "SuperTuxKart (official desktop releases)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "supertuxkart/stk-code",
+          "url": "https://github.com/supertuxkart/stk-code",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://supertuxkart.net/Download",
+            "iOS": "https://supertuxkart.net/Download",
+            "macOS": "https://github.com/supertuxkart/stk-code/releases/tag/1.5",
+            "Windows": "https://github.com/supertuxkart/stk-code/releases/tag/1.5"
+          },
+          "data_requirements": {
+            "en": "Choose the matching system download. Required assets come with the game.",
+            "zh-Hans": "从官方下载页选择对应系统，随游戏获取所需素材。",
+            "zh-Hant": "從官方下載頁選擇對應系統，隨遊戲獲取所需素材。"
+          },
+          "desktop_data_requirements": {
+            "en": "Install the complete game package for your system to get its karts, tracks and other assets.",
+            "zh-Hans": "安装本系统的完整游戏发行包，使用配套的车辆、赛道和其他资源。",
+            "zh-Hant": "安裝本系統的完整遊戲發行包，使用配套的車輛、賽道和其他資源。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surge-the-rabbit",
+      "names": {
+        "en": "Surge the Rabbit",
+        "zh-Hans": "Surge the Rabbit",
+        "zh-Hant": "Surge the Rabbit"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/surge-the-rabbit/",
+        "zh-Hans": "https://www.xsmth.com/games/surge-the-rabbit/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/surge-the-rabbit/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://opensurge2d.org/",
+          "edition": "Open Surge: Surge the Rabbit (official desktop releases)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://opensurge2d.org/",
+          "edition": "Open Surge: Surge the Rabbit (official desktop releases)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "alemart/opensurge",
+          "url": "https://github.com/alemart/opensurge",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/alemart/opensurge/releases"
+          },
+          "data_requirements": {
+            "en": "Install the Android build of Open Surge that includes the demonstration game.",
+            "zh-Hans": "安装附带示范游戏的 Open Surge 安卓包。",
+            "zh-Hant": "安裝附帶示範遊戲的 Open Surge Android包。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wesnoth",
+      "names": {
+        "en": "The Battle for Wesnoth",
+        "zh-Hans": "韦诺之战",
+        "zh-Hant": "韋諾之戰"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/wesnoth/",
+        "zh-Hans": "https://www.xsmth.com/games/wesnoth/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/wesnoth/"
+      },
+      "original_platforms": [
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/599390/",
+          "edition": "The Battle for Wesnoth (Steam edition)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/599390/",
+          "edition": "The Battle for Wesnoth (Steam edition)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://store.steampowered.com/app/599390/",
+          "edition": "The Battle for Wesnoth (Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "wesnoth/wesnoth",
+          "url": "https://github.com/wesnoth/wesnoth",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/wesnoth/wesnoth",
+            "iOS": "https://github.com/wesnoth/wesnoth",
+            "macOS": "https://wiki.wesnoth.org/Download",
+            "Windows": "https://wiki.wesnoth.org/Download"
+          },
+          "data_requirements": {
+            "en": "Use the mobile links in the project's README.",
+            "zh-Hans": "从项目 README 的移动版本入口获取游戏。",
+            "zh-Hant": "從專案 README 的移動版本入口獲取遊戲。"
+          },
+          "desktop_data_requirements": {
+            "en": "Install the full game distribution for the mainline campaign assets. Add-ons are optional.",
+            "zh-Hans": "完整游戏发行包附带主线战役素材，可按需另装扩展。",
+            "zh-Hant": "完整遊戲發行包附帶主線戰役素材，可按需另裝擴充套件。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "daggerfall-android",
+      "names": {
+        "en": "The Elder Scrolls II: Daggerfall",
+        "zh-Hans": "上古卷轴 II：匕首雨",
+        "zh-Hant": "上古卷軸 II：匕首雨"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/daggerfall-android/",
+        "zh-Hans": "https://www.xsmth.com/games/daggerfall-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/daggerfall-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/778/the-elder-scrolls-chapter-ii-daggerfall/",
+          "edition": "The Elder Scrolls: Chapter II - Daggerfall (1996)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Vwing/daggerfall-unity-android",
+          "url": "https://github.com/Vwing/daggerfall-unity-android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Vwing/daggerfall-unity-android#readme"
+          },
+          "data_requirements": {
+            "en": "Import original Daggerfall data supported by the selected build.",
+            "zh-Hans": "按该版本的说明导入受支持的 Daggerfall 原版数据。",
+            "zh-Hant": "按該版本的說明匯入受支援的 Daggerfall 原版資料。"
+          }
+        },
+        {
+          "repository": "Codex64ai/daggerfall-unity-ios",
+          "url": "https://github.com/Codex64ai/daggerfall-unity-ios",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/Codex64ai/daggerfall-unity-ios/blob/unity6-upgrade/README-iOS.md"
+          },
+          "data_requirements": {
+            "en": "Prepare the game files described in the iOS guide, then sign and install the app.",
+            "zh-Hans": "按 iOS 安装指南准备游戏文件，并签名安装应用。",
+            "zh-Hant": "按 iOS 安裝指南準備遊戲檔案，並簽名安裝應用。"
+          }
+        },
+        {
+          "repository": "Interkarma/daggerfall-unity",
+          "url": "https://github.com/Interkarma/daggerfall-unity",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/Interkarma/daggerfall-unity/releases/tag/v1.1.1-cve-2025",
+            "Windows": "https://github.com/Interkarma/daggerfall-unity/releases/tag/v1.1.1-cve-2025"
+          },
+          "data_requirements": {
+            "en": "Install the original DOS edition of Daggerfall and point Daggerfall Unity to the game directory.",
+            "zh-Hans": "先准备 DOS 版 Daggerfall 安装数据，再在 Daggerfall Unity 中选取该目录。",
+            "zh-Hant": "先準備 DOS 版 Daggerfall 安裝資料，再在 Daggerfall Unity 中選取該目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "morrowind-android",
+      "names": {
+        "en": "The Elder Scrolls III: Morrowind",
+        "zh-Hans": "上古卷轴 III：晨风",
+        "zh-Hant": "上古卷軸 3：魔捲晨風"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/morrowind-android/",
+        "zh-Hans": "https://www.xsmth.com/games/morrowind-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/morrowind-android/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/6280/the-elder-scrolls-iii-morrowind/",
+          "edition": "The Elder Scrolls III: Morrowind (2002)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Andiweli/OpenMW-Android",
+          "url": "https://github.com/Andiweli/OpenMW-Android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Andiweli/OpenMW-Android"
+          },
+          "data_requirements": {
+            "en": "Copy Data Files from your own PC installation.",
+            "zh-Hans": "从自己的 PC 版安装目录复制 Data Files。",
+            "zh-Hant": "從自己的 PC 版安裝目錄複製 Data Files。"
+          }
+        },
+        {
+          "repository": "joedemo42/OpenMW",
+          "url": "https://github.com/joedemo42/OpenMW",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/joedemo42/OpenMW/blob/openmw-ios/ios/README.md"
+          },
+          "data_requirements": {
+            "en": "Copy the contents of Data Files and Morrowind.ini from the PC game.",
+            "zh-Hans": "从 PC 版复制 Data Files 的内容和 Morrowind.ini。",
+            "zh-Hant": "從 PC 版複製 Data Files 的內容和 Morrowind.ini。"
+          }
+        },
+        {
+          "repository": "OpenMW/openmw",
+          "url": "https://github.com/OpenMW/openmw",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0",
+            "Windows": "https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0"
+          },
+          "data_requirements": {
+            "en": "Use the setup wizard with game data from your copy of Morrowind, including Morrowind.esm in the Data Files directory.",
+            "zh-Hans": "让安装向导读取自己持有的 Morrowind 游戏数据，例如现有安装中的 Morrowind.esm 和 Data Files。",
+            "zh-Hant": "讓安裝嚮導讀取自己持有的 Morrowind 遊戲資料，例如現有安裝中的 Morrowind.esm 和 Data Files。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdlpal",
+      "names": {
+        "en": "The Legend of Sword and Fairy",
+        "zh-Hans": "仙剑奇侠传",
+        "zh-Hant": "仙劍奇俠傳"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/sdlpal/",
+        "zh-Hans": "https://www.xsmth.com/games/sdlpal/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/sdlpal/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://tgs.tca.org.tw/apgs/file/4.%E8%AC%9B%E5%B8%AB%E7%B0%A1%E5%A0%B1%E3%80%8BAPGS_SoftStar%E5%A4%A7%E5%AE%87.pdf",
+          "edition": "Chinese Paladin (1995 DOS edition)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://tgs.tca.org.tw/apgs/file/4.%E8%AC%9B%E5%B8%AB%E7%B0%A1%E5%A0%B1%E3%80%8BAPGS_SoftStar%E5%A4%A7%E5%AE%87.pdf",
+          "edition": "Chinese Paladin (1997 Windows 95 edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "sdlpal/sdlpal",
+          "url": "https://github.com/sdlpal/sdlpal",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/sdlpal/sdlpal",
+            "iOS": "https://github.com/sdlpal/sdlpal",
+            "macOS": "https://github.com/sdlpal/sdlpal/releases/tag/v3.0.2025.0616",
+            "Windows": "https://github.com/sdlpal/sdlpal/releases/tag/v3.0.2025.0616"
+          },
+          "data_requirements": {
+            "en": "Import the resource files from your copy of the original game.",
+            "zh-Hans": "导入自己持有的初代仙剑资源文件。",
+            "zh-Hant": "匯入自己持有的初代仙劍資原始檔。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply the original game resources from a supported edition of The Legend of Sword and Fairy.",
+            "zh-Hans": "导入自己持有的、与 SDLPal 兼容的初代仙剑游戏资源。",
+            "zh-Hant": "匯入自己持有的、與 SDLPal 相容的初代仙劍遊戲資源。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zelda3-android",
+      "names": {
+        "en": "The Legend of Zelda: A Link to the Past",
+        "zh-Hans": "塞尔达传说 众神的三角力量",
+        "zh-Hant": "薩爾達傳說 眾神的三角神力"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/zelda3-android/",
+        "zh-Hans": "https://www.xsmth.com/games/zelda3-android/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/zelda3-android/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "samyost1/zelda3-android",
+          "url": "https://github.com/samyost1/zelda3-android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/samyost1/zelda3-android/blob/dual-screen/README.md"
+          },
+          "data_requirements": {
+            "en": "Import a US SNES ROM or your own generated zelda3_assets.dat file.",
+            "zh-Hans": "导入美版 SNES ROM，或提供自行生成的 zelda3_assets.dat。",
+            "zh-Hant": "匯入美版 SNES ROM，或提供自行生成的 zelda3_assets.dat。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "majoras-mask-2ship",
+      "names": {
+        "en": "The Legend of Zelda: Majora’s Mask",
+        "zh-Hans": "塞尔达传说 姆吉拉的假面",
+        "zh-Hant": "薩爾達傳說 魔吉拉的面具"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/majoras-mask-2ship/",
+        "zh-Hans": "https://www.xsmth.com/games/majoras-mask-2ship/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/majoras-mask-2ship/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "linkzenic/2ship2harkinian-Android",
+          "url": "https://github.com/linkzenic/2ship2harkinian-Android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/linkzenic/2ship2harkinian-Android/blob/android/README.md"
+          },
+          "data_requirements": {
+            "en": "Select your compatible MM.z64 file on first launch.",
+            "zh-Hans": "首次启动时选择自己持有的兼容 MM.z64 文件。",
+            "zh-Hant": "首次啟動時選擇自己持有的相容 MM.z64 檔案。"
+          }
+        },
+        {
+          "repository": "linkzenic/Zelda64Recomp-Android",
+          "url": "https://github.com/linkzenic/Zelda64Recomp-Android",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/linkzenic/Zelda64Recomp-Android/blob/android-port/README.md"
+          },
+          "data_requirements": {
+            "en": "Supply a supported US N64 ROM of Majora's Mask.",
+            "zh-Hans": "准备受支持的美版 N64《姆吉拉的假面》ROM。",
+            "zh-Hant": "準備受支援的美版 N64《姆吉拉的假面》ROM。"
+          }
+        },
+        {
+          "repository": "2ship2harkinian/2ship2harkinian",
+          "url": "https://github.com/2ship2harkinian/2ship2harkinian",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/2ship2harkinian/2ship2harkinian/releases/tag/5.0.1",
+            "Windows": "https://github.com/2ship2harkinian/2ship2harkinian/releases/tag/5.0.1"
+          },
+          "data_requirements": {
+            "en": "Provide a supported dump of your own Majora’s Mask cartridge and import the assets as directed by this port.",
+            "zh-Hans": "提供项目支持的自有 Majora’s Mask ROM，按该分支的说明导入原版素材。",
+            "zh-Hant": "提供專案支援的自有 Majora’s Mask ROM，按該分支的說明匯入原版素材。"
+          }
+        },
+        {
+          "repository": "Zelda64Recomp/Zelda64Recomp",
+          "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+          "original_platform": "Console",
+          "port_type": "Static recompilation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/tag/v1.2.2",
+            "Windows": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/tag/v1.2.2"
+          },
+          "data_requirements": {
+            "en": "At first launch select your own dump of the US N64 release of Majora’s Mask. Check that its revision matches the upstream instructions.",
+            "zh-Hans": "首次启动时选择自己导出的美版 N64 Majora’s Mask ROM；按上游说明核对 ROM 版本。",
+            "zh-Hant": "首次啟動時選擇自己匯出的美版 N64 Majora’s Mask ROM；按上游說明核對 ROM 版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ocarina-of-time",
+      "names": {
+        "en": "The Legend of Zelda: Ocarina of Time",
+        "zh-Hans": "塞尔达传说 时之笛",
+        "zh-Hant": "薩爾達傳說 時之笛"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/ocarina-of-time/",
+        "zh-Hans": "https://www.xsmth.com/games/ocarina-of-time/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/ocarina-of-time/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "linkzenic/Shipwright-Ports",
+          "url": "https://github.com/linkzenic/Shipwright-Ports",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/linkzenic/Shipwright-Ports/blob/main/README.md",
+            "iOS": "https://github.com/linkzenic/Shipwright-Ports/blob/main/README.md"
+          },
+          "data_requirements": {
+            "en": "Import an Ocarina of Time ROM whose checksum matches the project's list.",
+            "zh-Hans": "导入与项目校验值匹配的《时之笛》ROM。",
+            "zh-Hant": "匯入與專案校驗值匹配的《時之笛》ROM。"
+          }
+        },
+        {
+          "repository": "Waterdish/Shipwright-Android",
+          "url": "https://github.com/Waterdish/Shipwright-Android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Waterdish/Shipwright-Android"
+          },
+          "data_requirements": {
+            "en": "Import your own ROM from the project's compatibility list on first launch.",
+            "zh-Hans": "准备自己持有且符合项目支持列表的 ROM，在首次启动时导入。",
+            "zh-Hant": "準備自己持有且符合專案支援列表的 ROM，在首次啟動時匯入。"
+          }
+        },
+        {
+          "repository": "HarbourMasters/Shipwright",
+          "url": "https://github.com/HarbourMasters/Shipwright",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/HarbourMasters/Shipwright/releases/tag/9.3.1",
+            "Windows": "https://github.com/HarbourMasters/Shipwright/releases/tag/9.3.1"
+          },
+          "data_requirements": {
+            "en": "Use a supported dump of your own game and check the revision and checksum before extracting the required assets.",
+            "zh-Hans": "从自己持有的游戏复制项目支持的 ROM，并核对完整版本和校验值后按指引提取素材。",
+            "zh-Hant": "從自己持有的遊戲複製專案支援的 ROM，並核對完整版本和校驗值後按指引提取素材。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "minish-cap",
+      "names": {
+        "en": "The Legend of Zelda: The Minish Cap",
+        "zh-Hans": "塞尔达传说 缩小帽",
+        "zh-Hant": "薩爾達傳說 縮小帽"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/minish-cap/",
+        "zh-Hans": "https://www.xsmth.com/games/minish-cap/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/minish-cap/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "samyost1/tmc-android",
+          "url": "https://github.com/samyost1/tmc-android",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/samyost1/tmc-android/blob/dual-screen-native/README.md"
+          },
+          "data_requirements": {
+            "en": "Follow the README for baserom.gba placement and check its recommended US release.",
+            "zh-Hans": "按 README 放入 baserom.gba，优先使用项目列出的美版 ROM。",
+            "zh-Hant": "按 README 放入 baserom.gba，優先使用專案列出的美版 ROM。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "twilight-princess",
+      "names": {
+        "en": "The Legend of Zelda: Twilight Princess",
+        "zh-Hans": "塞尔达传说 黄昏公主",
+        "zh-Hant": "薩爾達傳說 黃昏公主"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/twilight-princess/",
+        "zh-Hans": "https://www.xsmth.com/games/twilight-princess/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/twilight-princess/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "TwilitRealm/dusklight",
+          "url": "https://github.com/TwilitRealm/dusklight",
+          "original_platform": "Console",
+          "port_type": "Decompilation port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://twilitrealm.dev/install/",
+            "iOS": "https://twilitrealm.dev/install/",
+            "macOS": "https://github.com/TwilitRealm/dusklight/releases/tag/v2.0.3",
+            "Windows": "https://github.com/TwilitRealm/dusklight/releases/tag/v2.0.3"
+          },
+          "data_requirements": {
+            "en": "Use your own GameCube or Wii disc image. The Korean Wii edition is currently unsupported.",
+            "zh-Hans": "使用自己的 GameCube 或 Wii 光盘镜像，Wii 韩版暂不兼容。",
+            "zh-Hant": "使用自己的 GameCube 或 Wii 光碟映象，Wii 韓版暫不相容。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply your own supported GameCube or Wii disc image and check the region and revision.",
+            "zh-Hans": "使用受支持的 GameCube 或 Wii 版自有光盘镜像，并核对地区与版本。",
+            "zh-Hant": "使用受支援的 GameCube 或 Wii 版自有光碟映象，並核對地區與版本。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "powder-toy",
+      "names": {
+        "en": "The Powder Toy",
+        "zh-Hans": "粉末玩具",
+        "zh-Hant": "粉末玩具"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/powder-toy/",
+        "zh-Hans": "https://www.xsmth.com/games/powder-toy/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/powder-toy/"
+      },
+      "original_platforms": [
+        {
+          "platform": "macOS",
+          "source": "https://store.steampowered.com/app/1148350/",
+          "edition": "The Powder Toy (Steam edition)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/1148350/",
+          "edition": "The Powder Toy (Steam edition)"
+        },
+        {
+          "platform": "Linux",
+          "source": "https://store.steampowered.com/app/1148350/",
+          "edition": "The Powder Toy (Steam edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "The-Powder-Toy/The-Powder-Toy",
+          "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://powdertoy.co.uk/Download.html",
+            "macOS": "https://github.com/The-Powder-Toy/The-Powder-Toy/releases/tag/v100.1.400",
+            "Windows": "https://github.com/The-Powder-Toy/The-Powder-Toy/releases/tag/v100.1.400"
+          },
+          "data_requirements": {
+            "en": "Select the Android version from the project's downloads.",
+            "zh-Hans": "从项目下载页选择 Android 版。",
+            "zh-Hant": "從專案下載頁選擇 Android 版。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the complete application for the processor architecture shown on the release page.",
+            "zh-Hans": "从同一版本的发行页选择与系统架构相符的完整程序。",
+            "zh-Hant": "從同一版本的發行頁選擇與系統架構相符的完整程式。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "scummvm",
+      "names": {
+        "en": "The Secret of Monkey Island & classic adventures",
+        "zh-Hans": "猴岛的秘密等经典冒险游戏",
+        "zh-Hant": "猴島的秘密等經典冒險遊戲"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/scummvm/",
+        "zh-Hans": "https://www.xsmth.com/games/scummvm/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/scummvm/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/616/the-secret-of-monkey-island/",
+          "edition": "The Secret of Monkey Island (1990)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "scummvm/scummvm",
+          "url": "https://github.com/scummvm/scummvm",
+          "original_platform": "PC",
+          "port_type": "Compatible engine",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://www.scummvm.org/downloads/",
+            "iOS": "https://www.scummvm.org/downloads/",
+            "macOS": "https://docs.scummvm.org/en/latest/use_scummvm/install_computer.html",
+            "Windows": "https://docs.scummvm.org/en/latest/use_scummvm/install_computer.html"
+          },
+          "data_requirements": {
+            "en": "Use the compatibility list to select the original data files for a supported edition.",
+            "zh-Hans": "按兼容性清单导入受支持版本的原始数据文件。",
+            "zh-Hant": "按相容性清單匯入受支援版本的原始資料檔案。"
+          },
+          "desktop_data_requirements": {
+            "en": "Use the compatibility list and the game-specific data-file list for the edition you own.",
+            "zh-Hans": "根据 ScummVM 的兼容列表和每款游戏的文件清单准备原作资源。",
+            "zh-Hant": "根據 ScummVM 的相容列表和每款遊戲的檔案清單準備原作資源。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "freeserf",
+      "names": {
+        "en": "The Settlers",
+        "zh-Hans": "工人物语",
+        "zh-Hant": "工人物語"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/freeserf/",
+        "zh-Hans": "https://www.xsmth.com/games/freeserf/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/freeserf/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/425/serf-city-life-is-feudal/",
+          "edition": "Serf City: Life is Feudal (1994)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Pyrdacor/freeserf.net",
+          "url": "https://github.com/Pyrdacor/freeserf.net",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/Pyrdacor/freeserf.net"
+          },
+          "data_requirements": {
+            "en": "Select original assets on first launch or import them from your purchased Ubisoft version.",
+            "zh-Hans": "首次启动时选择原版资源，或从已购的 Ubisoft 版本导入。",
+            "zh-Hant": "首次啟動時選擇原版資源，或從已購的 Ubisoft 版本匯入。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "simitone",
+      "names": {
+        "en": "The Sims: Complete Collection",
+        "zh-Hans": "模拟人生：完整版",
+        "zh-Hant": "模擬市民 典藏年鑑"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/simitone/",
+        "zh-Hans": "https://www.xsmth.com/games/simitone/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/simitone/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/860/the-sims/",
+          "edition": "The Sims (2000)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "davius0210/simitone-android",
+          "url": "https://github.com/davius0210/simitone-android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/davius0210/simitone-android"
+          },
+          "data_requirements": {
+            "en": "Use the PC Complete Collection and transfer its data with ADB as directed.",
+            "zh-Hans": "需要 PC 版 Complete Collection，按项目说明用 ADB 传入数据。",
+            "zh-Hant": "需要 PC 版 Complete Collection，按專案說明用 ADB 傳入資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "theme-hospital",
+      "names": {
+        "en": "Theme Hospital",
+        "zh-Hans": "主题医院",
+        "zh-Hant": "主題醫院"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/theme-hospital/",
+        "zh-Hans": "https://www.xsmth.com/games/theme-hospital/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/theme-hospital/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/674/theme-hospital/",
+          "edition": "Theme Hospital (1997)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/674/theme-hospital/",
+          "edition": "Theme Hospital (1997)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "alanwoolley/CorsixTH-Android",
+          "url": "https://github.com/alanwoolley/CorsixTH-Android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/alanwoolley/CorsixTH-Android"
+          },
+          "data_requirements": {
+            "en": "Import the full game folder or download the demo through the app.",
+            "zh-Hans": "导入完整游戏目录，或在应用内下载试玩版。",
+            "zh-Hant": "匯入完整遊戲目錄，或在應用內下載試玩版。"
+          }
+        },
+        {
+          "repository": "CorsixTH/CorsixTH",
+          "url": "https://github.com/CorsixTH/CorsixTH",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.2",
+            "Windows": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.2"
+          },
+          "data_requirements": {
+            "en": "Import data from your original copy of Theme Hospital or use the supported demo files.",
+            "zh-Hans": "持有原版 Theme Hospital 时可导入完整版数据，或按项目说明使用兼容的演示版数据。",
+            "zh-Hant": "持有原版 Theme Hospital 時可匯入完整版資料，或按專案說明使用相容的演示版資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openlara",
+      "names": {
+        "en": "Tomb Raider",
+        "zh-Hans": "古墓丽影",
+        "zh-Hant": "古墓奇兵"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openlara/",
+        "zh-Hans": "https://www.xsmth.com/games/openlara/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openlara/"
+      },
+      "original_platforms": [],
+      "projects": [
+        {
+          "repository": "XProger/OpenLara",
+          "url": "https://github.com/XProger/OpenLara",
+          "original_platform": "Console",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/XProger/OpenLara/releases",
+            "iOS": "https://github.com/XProger/OpenLara/releases"
+          },
+          "data_requirements": {
+            "en": "Supply your original game data for the full set of levels. Follow the directory layout in the release notes.",
+            "zh-Hans": "完整关卡需自行提供原版游戏数据，目录结构见发行包说明。",
+            "zh-Hant": "完整關卡需自行提供原版遊戲資料，目錄結構見發行包說明。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openttd",
+      "names": {
+        "en": "Transport Tycoon Deluxe",
+        "zh-Hans": "运输大亨豪华版",
+        "zh-Hant": "運輸大亨豪華版"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openttd/",
+        "zh-Hans": "https://www.xsmth.com/games/openttd/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openttd/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.chrissawyergames.com/info.htm",
+          "edition": "Transport Tycoon Deluxe (1995)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.chrissawyergames.com/faq2.htm",
+          "edition": "Transport Tycoon Deluxe (Windows 95 edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "pelya/openttd-android",
+          "url": "https://github.com/pelya/openttd-android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/pelya/openttd-android"
+          },
+          "data_requirements": {
+            "en": "Use the free OpenGFX, OpenSFX and OpenMSX sets or import original game data.",
+            "zh-Hans": "可使用 OpenGFX、OpenSFX 和 OpenMSX 免费素材，也可导入原版数据。",
+            "zh-Hant": "可使用 OpenGFX、OpenSFX 和 OpenMSX 免費素材，也可匯入原版資料。"
+          }
+        },
+        {
+          "repository": "OpenTTD/OpenTTD",
+          "url": "https://github.com/OpenTTD/OpenTTD",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://www.openttd.org/downloads/openttd-releases/latest",
+            "Windows": "https://www.openttd.org/downloads/openttd-releases/latest"
+          },
+          "data_requirements": {
+            "en": "Use the open OpenGFX, OpenSFX and OpenMSX sets, or supply compatible assets from your copy of Transport Tycoon Deluxe.",
+            "zh-Hans": "可使用 OpenGFX、OpenSFX 与 OpenMSX 等开放素材，或导入自己持有的 Transport Tycoon Deluxe 原版素材。",
+            "zh-Hant": "可使用 OpenGFX、OpenSFX 與 OpenMSX 等開放素材，或匯入自己持有的 Transport Tycoon Deluxe 原版素材。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opentyrian",
+      "names": {
+        "en": "Tyrian",
+        "zh-Hans": "Tyrian",
+        "zh-Hant": "Tyrian"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/opentyrian/",
+        "zh-Hans": "https://www.xsmth.com/games/opentyrian/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/opentyrian/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/586/tyrian/",
+          "edition": "Tyrian (1995)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "intervigilium/android-opentyrian",
+          "url": "https://github.com/intervigilium/android-opentyrian",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/intervigilium/android-opentyrian"
+          },
+          "data_requirements": {
+            "en": "Use the freeware Tyrian 2.1 data files.",
+            "zh-Hans": "使用 Tyrian 2.1 的免费数据文件。",
+            "zh-Hant": "使用 Tyrian 2.1 的免費資料檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "exult",
+      "names": {
+        "en": "Ultima VII",
+        "zh-Hans": "创世纪 VII",
+        "zh-Hant": "創世紀 VII"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/exult/",
+        "zh-Hans": "https://www.xsmth.com/games/exult/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/exult/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.gog.com/en/game/ultima_7_complete",
+          "edition": "Ultima VII: The Black Gate (1992)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "exult/exult",
+          "url": "https://github.com/exult/exult",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/exult/exult/blob/master/README",
+            "iOS": "https://github.com/exult/exult/blob/master/README",
+            "macOS": "https://exult.info/download.html",
+            "Windows": "https://exult.info/download.html"
+          },
+          "data_requirements": {
+            "en": "Import original resources separately for the installment you want to play.",
+            "zh-Hans": "分别导入所玩篇章的原始游戏资源。",
+            "zh-Hant": "分別匯入所玩篇章的原始遊戲資源。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply game data from your copy of The Black Gate or Serpent Isle for the chapter you want to play.",
+            "zh-Hans": "按准备游玩的篇章导入 The Black Gate 或 Serpent Isle 的合法原版数据。",
+            "zh-Hant": "按準備遊玩的篇章匯入 The Black Gate 或 Serpent Isle 的合法原版資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "warzone2100",
+      "names": {
+        "en": "Warzone 2100",
+        "zh-Hans": "战争地带 2100",
+        "zh-Hant": "戰爭地帶 2100"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/warzone2100/",
+        "zh-Hans": "https://www.xsmth.com/games/warzone2100/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/warzone2100/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://www.mobygames.com/game/2869/warzone-2100/",
+          "edition": "Warzone 2100 (1999)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Warzone2100/warzone2100",
+          "url": "https://github.com/Warzone2100/warzone2100",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/Warzone2100/warzone2100/releases/tag/4.7.0",
+            "Windows": "https://github.com/Warzone2100/warzone2100/releases/tag/4.7.0"
+          },
+          "data_requirements": {
+            "en": "The open-source distribution provides the game data. The project also provides optional campaign cinematics as a sequences.wz file.",
+            "zh-Hans": "官方开放版提供游戏数据。战役视频可使用项目提供的 sequences.wz 文件。",
+            "zh-Hant": "官方開放版提供遊戲資料。戰役影片可使用專案提供的 sequences.wz 檔案。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wolf3d-ios",
+      "names": {
+        "en": "Wolfenstein 3D",
+        "zh-Hans": "德军总部 3D",
+        "zh-Hant": "德軍總部 3D"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/wolf3d-ios/",
+        "zh-Hans": "https://www.xsmth.com/games/wolf3d-ios/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/wolf3d-ios/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/306/wolfenstein-3d/",
+          "edition": "Wolfenstein 3D (1992)"
+        },
+        {
+          "platform": "Classic Mac OS",
+          "source": "https://www.mobygames.com/game/306/wolfenstein-3d/",
+          "edition": "Wolfenstein 3D (1995)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "id-Software/Wolf3D-iOS",
+          "url": "https://github.com/id-Software/Wolf3D-iOS",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/id-Software/Wolf3D-iOS"
+          },
+          "data_requirements": {
+            "en": "This is historical source. Consult the project for toolchain and data requirements.",
+            "zh-Hans": "仓库为历史源码，构建环境和数据要求见项目说明。",
+            "zh-Hant": "倉庫為歷史原始碼，構建環境和資料要求見專案說明。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "et-legacy",
+      "names": {
+        "en": "Wolfenstein: Enemy Territory",
+        "zh-Hans": "重返德军总部：深入敌后",
+        "zh-Hant": "重返德軍總部：深入敵後"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/et-legacy/",
+        "zh-Hans": "https://www.xsmth.com/games/et-legacy/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/et-legacy/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Linux",
+          "source": "https://www.splashdamage.com/games/wolfenstein-enemy-territory/",
+          "edition": "Wolfenstein: Enemy Territory (Splash Damage release)"
+        },
+        {
+          "platform": "Windows",
+          "source": "https://www.splashdamage.com/games/wolfenstein-enemy-territory/",
+          "edition": "Wolfenstein: Enemy Territory (Splash Damage release)"
+        },
+        {
+          "platform": "macOS",
+          "source": "https://www.splashdamage.com/games/wolfenstein-enemy-territory/",
+          "edition": "Wolfenstein: Enemy Territory (Splash Damage release)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "etlegacy/etlegacy",
+          "url": "https://github.com/etlegacy/etlegacy",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/etlegacy/etlegacy/wiki/Android"
+          },
+          "data_requirements": {
+            "en": "The Android installer downloads missing original freeware assets.",
+            "zh-Hans": "Android 安装器会在缺少原版免费资源时下载。",
+            "zh-Hant": "Android 安裝器會在缺少原版免費資源時下載。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openxcom",
+      "names": {
+        "en": "X-COM: UFO Defense / Terror from the Deep",
+        "zh-Hans": "幽浮：未知敌人与深海出击",
+        "zh-Hant": "幽浮：未知敵人與深海出擊"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openxcom/",
+        "zh-Hans": "https://www.xsmth.com/games/openxcom/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openxcom/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/521/x-com-ufo-defense/",
+          "edition": "X-COM: UFO Defense (1994)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "sfalexrog/openxcom-android",
+          "url": "https://github.com/sfalexrog/openxcom-android",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Android"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/sfalexrog/openxcom-android"
+          },
+          "data_requirements": {
+            "en": "Import the data directory for the original title you want to play.",
+            "zh-Hans": "导入相应原作的游戏数据目录。",
+            "zh-Hant": "匯入相應原作的遊戲資料目錄。"
+          }
+        }
+      ]
+    }
+  ]
+}

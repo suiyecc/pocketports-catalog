@@ -1,0 +1,54 @@
+name: Catalog correction or project suggestion
+description: Report a change to a port, platform, original release or installation guide.
+title: "[Catalog] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        English, 简体中文 and 繁體中文 are welcome. Link to public upstream evidence and describe what the catalog should say. Please keep game files, keys and personal information out of this public issue.
+  - type: dropdown
+    id: change
+    attributes:
+      label: What would you like to change?
+      options:
+        - Correct an existing project or installation link
+        - Add a project or another port of an existing game
+        - Correct a port's target platform
+        - Correct the original game's release platform or edition
+        - Correct a game file requirement, name or other detail
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game and catalog entry
+      description: Enter the game title. Include the PocketPorts game ID or page if it already exists.
+      placeholder: "RollerCoaster Tycoon 2 (openrct2)"
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: Affected upstream repository
+      description: Include the upstream GitHub URL when the change concerns a port.
+      placeholder: "https://github.com/owner/repository"
+  - type: input
+    id: platform
+    attributes:
+      label: Platform and edition, if relevant
+      description: Specify whether this is the port's target device or a platform where the original edition shipped.
+      placeholder: "Port target — iPadOS"
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Link the project's documentation or release notes, or a source for the original game's release. Point to a heading, version or date if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed change
+      description: What does the current entry say, and what should a player see instead?
+    validations:
+      required: true
