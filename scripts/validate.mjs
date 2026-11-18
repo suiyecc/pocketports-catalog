@@ -5,7 +5,7 @@ import { pathToFileURL } from 'node:url';
 const locales = ['en', 'zh-Hans', 'zh-Hant'];
 const base = 'https://www.xsmth.com';
 const routes = { en: '/en', 'zh-Hans': '', 'zh-Hant': '/zh-hant' };
-const targetPlatforms = new Set(['Android', 'iOS', 'iPadOS', 'macOS', 'Windows']);
+const targetPlatforms = new Set(['Android', 'iOS', 'iPadOS', 'macOS', 'Windows', 'Linux']);
 const originalPlatforms = new Set(['Windows', 'macOS', 'Classic Mac OS', 'DOS', 'Linux']);
 
 function requireHttps(value, label) {
