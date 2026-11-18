@@ -2,8 +2,8 @@
   "schema_version": 1,
   "reviewed": "2026-11-17",
   "source": "https://www.xsmth.com/en/catalog.json",
-  "game_count": 100,
-  "repository_count": 126,
+  "game_count": 106,
+  "repository_count": 141,
   "games": [
     {
       "id": "aliens-versus-predator",
@@ -176,13 +176,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/gemrb/gemrb#readme",
             "iOS": "https://github.com/gemrb/gemrb#readme",
             "macOS": "https://gemrb.org/Install",
-            "Windows": "https://gemrb.org/Install"
+            "Windows": "https://gemrb.org/Install",
+            "Linux": "https://github.com/gemrb/gemrb"
           },
           "data_requirements": {
             "en": "Point the engine to a supported original installation. A short demo is included.",
@@ -263,12 +265,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/bvschaik/julius#readme",
             "macOS": "https://github.com/bvschaik/julius/releases/tag/v1.8.0",
-            "Windows": "https://github.com/bvschaik/julius/releases/tag/v1.8.0"
+            "Windows": "https://github.com/bvschaik/julius/releases/tag/v1.8.0",
+            "Linux": "https://github.com/bvschaik/julius"
           },
           "data_requirements": {
             "en": "Supply a Caesar III installation updated to version 1.0.1.0.",
@@ -289,12 +293,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/Keriew/augustus#readme",
             "macOS": "https://github.com/Keriew/augustus/releases/tag/v4.0.0",
-            "Windows": "https://github.com/Keriew/augustus/releases/tag/v4.0.0"
+            "Windows": "https://github.com/Keriew/augustus/releases/tag/v4.0.0",
+            "Linux": "https://github.com/Keriew/augustus"
           },
           "data_requirements": {
             "en": "The original Caesar III game files are required.",
@@ -305,6 +311,47 @@
             "en": "Provide your original Caesar III data and select its directory as directed by Augustus.",
             "zh-Hans": "提供 Caesar III 原版游戏文件，并按照 Augustus 说明配置数据目录。",
             "zh-Hant": "提供 Caesar III 原版遊戲檔案，並按照 Augustus 說明配置資料目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openfodder",
+      "names": {
+        "en": "Cannon Fodder",
+        "zh-Hans": "炮灰",
+        "zh-Hant": "炮灰"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openfodder/",
+        "zh-Hans": "https://www.xsmth.com/games/openfodder/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openfodder/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://github.com/OpenFodder/openfodder/blob/master/INSTALL.md",
+          "edition": "Cannon Fodder (DOS CD edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenFodder/openfodder",
+          "url": "https://github.com/OpenFodder/openfodder",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "Windows": "https://github.com/OpenFodder/openfodder/blob/master/INSTALL.md",
+            "Linux": "https://github.com/OpenFodder/openfodder/blob/master/INSTALL.md"
+          },
+          "data_requirements": {
+            "en": "For the DOS CD edition, place your legally obtained CF_ENG.DAT in Data/Dos_CD. Linux users also need the campaign data described in the installation guide.",
+            "zh-Hans": "DOS CD 版需将合法持有的 CF_ENG.DAT 放入 Data/Dos_CD；Linux 还需按上游说明安装配套战役数据。",
+            "zh-Hant": "DOS CD 版需將合法持有的 CF_ENG.DAT 放入 Data/Dos_CD；Linux 還需按上游說明安裝配套戰役資料。"
           }
         }
       ]
@@ -347,12 +394,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/cataclysmbn/Cataclysm-BN#readme",
             "macOS": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
-            "Windows": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0"
+            "Windows": "https://github.com/cataclysmbn/Cataclysm-BN/releases/tag/v0.13.0",
+            "Linux": "https://github.com/cataclysmbn/Cataclysm-BN"
           },
           "data_requirements": {
             "en": "Install the project's Android release.",
@@ -405,12 +454,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/c%2B%2B/COMPILING.md#cross-compile-to-android-from-linux",
             "macOS": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1",
-            "Windows": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1"
+            "Windows": "https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.I-1",
+            "Linux": "https://github.com/CleverRaven/Cataclysm-DDA"
           },
           "data_requirements": {
             "en": "Install the project's mobile package.",
@@ -453,12 +504,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/doukutsu-rs/doukutsu-rs#readme",
             "macOS": "https://github.com/doukutsu-rs/doukutsu-rs/releases/tag/1.0.0",
-            "Windows": "https://github.com/doukutsu-rs/doukutsu-rs/releases/tag/1.0.0"
+            "Windows": "https://github.com/doukutsu-rs/doukutsu-rs/releases/tag/1.0.0",
+            "Linux": "https://github.com/doukutsu-rs/doukutsu-rs"
           },
           "data_requirements": {
             "en": "Import data from a supported edition, including the free original.",
@@ -500,16 +553,18 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://openloco.io/download/",
-            "Windows": "https://openloco.io/download/"
+            "Windows": "https://openloco.io/download/",
+            "Linux": "https://github.com/OpenLoco/OpenLoco"
           },
           "data_requirements": {
-            "en": "Install your copy of Chris Sawyer’s Locomotion and point OpenLoco at the directory containing its assets.",
-            "zh-Hans": "安装自己持有的 Chris Sawyer’s Locomotion，将 OpenLoco 指向包含原版素材的目录。",
-            "zh-Hant": "安裝自己持有的 Chris Sawyer’s Locomotion，將 OpenLoco 指向包含原版素材的目錄。"
+            "en": "Install your copy of Chris Sawyer’s Locomotion and point OpenLoco at the directory containing its assets. Upstream provides a 64-bit Linux release that uses the original Locomotion assets.",
+            "zh-Hans": "安装自己持有的 Chris Sawyer’s Locomotion，将 OpenLoco 指向包含原版素材的目录。 上游提供 64 位 Linux 发行包，需要导入原版 Locomotion 素材。",
+            "zh-Hant": "安裝自己持有的 Chris Sawyer’s Locomotion，將 OpenLoco 指向包含原版素材的目錄。 上游提供 64 位 Linux 發行包，需要匯入原版 Locomotion 素材。"
           }
         }
       ]
@@ -568,16 +623,18 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://www.openra.net/download/",
-            "Windows": "https://www.openra.net/download/"
+            "Windows": "https://www.openra.net/download/",
+            "Linux": "https://www.openra.net/download/"
           },
           "data_requirements": {
-            "en": "Follow the in-game content installer for your chosen title. Required game assets and optional music or cutscenes vary by game.",
-            "zh-Hans": "首次运行时按所选游戏的内容安装器提示导入原版素材；不同游戏与附加影音内容的要求各异。",
-            "zh-Hant": "首次執行時按所選遊戲的內容安裝器提示匯入原版素材；不同遊戲與附加影音內容的要求各異。"
+            "en": "Follow the in-game content installer for your chosen title. Required game assets and optional music or cutscenes vary by game. Official Linux AppImages prompt you to download or import the original game assets when first running a mod.",
+            "zh-Hans": "首次运行时按所选游戏的内容安装器提示导入原版素材；不同游戏与附加影音内容的要求各异。 Linux 可使用官方 AppImage，首次运行模组时按提示下载或导入原版素材。",
+            "zh-Hant": "首次執行時按所選遊戲的內容安裝器提示匯入原版素材；不同遊戲與附加影音內容的要求各異。 Linux 可使用官方 AppImage，首次執行模組時按提示下載或匯入原版素材。"
           }
         }
       ]
@@ -995,13 +1052,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/diasurgical/devilutionX#readme",
             "iOS": "https://github.com/diasurgical/devilutionX#readme",
             "macOS": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5",
-            "Windows": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5"
+            "Windows": "https://github.com/diasurgical/devilutionX/releases/tag/1.5.5",
+            "Linux": "https://github.com/diasurgical/devilutionX/blob/master/docs/installing.md"
           },
           "data_requirements": {
             "en": "The full game needs DIABDAT.MPQ. The shareware spawn.mpq can be used for the trial content.",
@@ -1009,9 +1068,9 @@
             "zh-Hant": "完整版需要 DIABDAT.MPQ；試玩可使用共享版 spawn.mpq。"
           },
           "desktop_data_requirements": {
-            "en": "Supply DIABDAT.MPQ from Diablo or spawn.mpq from the shareware edition. Hellfire also needs its expansion files.",
-            "zh-Hans": "完整版读取原版 DIABDAT.MPQ；共享试玩版可使用 spawn.mpq。Hellfire 还需对应资料片文件。",
-            "zh-Hant": "完整版讀取原版 DIABDAT.MPQ；共享試玩版可使用 spawn.mpq。Hellfire 還需對應資料片檔案。"
+            "en": "Supply DIABDAT.MPQ from Diablo or spawn.mpq from the shareware edition. Hellfire also needs its expansion files. Linux builds use the original MPQ files in the executable directory or the documented data directory. The Flatpak data location is listed separately.",
+            "zh-Hans": "完整版读取原版 DIABDAT.MPQ；共享试玩版可使用 spawn.mpq。Hellfire 还需对应资料片文件。 Linux 版可从项目发行页安装，原版 MPQ 放入程序目录或安装方式指定的数据目录，Flatpak 的数据位置另有说明。",
+            "zh-Hant": "完整版讀取原版 DIABDAT.MPQ；共享試玩版可使用 spawn.mpq。Hellfire 還需對應資料片檔案。 Linux 版可從專案發行頁安裝，原版 MPQ 放入程式目錄或安裝方式指定的資料目錄，Flatpak 的資料位置另有說明。"
           }
         }
       ]
@@ -1095,6 +1154,27 @@
             "zh-Hans": "从 2004 版复制 base，资料片另需 d3xp。BFG 版数据不适用。",
             "zh-Hant": "從 2004 版複製 base，資料片另需 d3xp。BFG 版資料不適用。"
           }
+        },
+        {
+          "repository": "dhewm/dhewm3",
+          "url": "https://github.com/dhewm/dhewm3",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/dhewm/dhewm3#compiling",
+            "Windows": "https://dhewm3.org/#how-to-install",
+            "Linux": "https://github.com/dhewm/dhewm3#compiling-example-using-ubuntu"
+          },
+          "data_requirements": {
+            "en": "Supply classic DOOM 3 game data patched to 1.3.1. BFG Edition data is incompatible with this engine.",
+            "zh-Hans": "准备更新至 1.3.1 的经典 DOOM 3 数据。BFG Edition 数据与本项目不兼容。",
+            "zh-Hant": "準備更新至 1.3.1 的經典 DOOM 3 資料。BFG Edition 資料與本專案不相容。"
+          }
         }
       ]
     },
@@ -1169,16 +1249,18 @@
           "port_type": "Source port",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/chocolate-doom/chocolate-doom/releases/tag/chocolate-doom-3.1.1",
-            "Windows": "https://github.com/chocolate-doom/chocolate-doom/releases/tag/chocolate-doom-3.1.1"
+            "Windows": "https://github.com/chocolate-doom/chocolate-doom/releases/tag/chocolate-doom-3.1.1",
+            "Linux": "https://www.chocolate-doom.org/wiki/index.php/Installing_Chocolate_Doom_on_Linux"
           },
           "data_requirements": {
-            "en": "Provide an IWAD from your copy of Doom, such as DOOM.WAD or DOOM2.WAD, or use the shareware DOOM1.WAD.",
-            "zh-Hans": "从自己持有的 Doom 游戏中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。",
-            "zh-Hant": "從自己持有的 Doom 遊戲中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。"
+            "en": "Provide an IWAD from your copy of Doom, such as DOOM.WAD or DOOM2.WAD, or use the shareware DOOM1.WAD. On Linux, install a distribution package or build from source, then supply your original IWAD.",
+            "zh-Hans": "从自己持有的 Doom 游戏中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。 Linux 可从发行版的软件包或源码安装，并提供自己的原版 IWAD 文件。",
+            "zh-Hant": "從自己持有的 Doom 遊戲中提供 IWAD，例如 DOOM.WAD 或 DOOM2.WAD；共享版可用 DOOM1.WAD。 Linux 可從發行版的軟體包或原始碼安裝，並提供自己的原版 IWAD 檔案。"
           }
         }
       ]
@@ -1218,6 +1300,92 @@
             "en": "Supply your own DUKE3D.GRP, then sign and install the app as documented.",
             "zh-Hans": "提供自己的 DUKE3D.GRP，按说明签名安装应用。",
             "zh-Hant": "提供自己的 DUKE3D.GRP，按說明簽名安裝應用。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rigelengine",
+      "names": {
+        "en": "Duke Nukem II",
+        "zh-Hans": "毁灭公爵 II",
+        "zh-Hant": "毀滅公爵 II"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/rigelengine/",
+        "zh-Hans": "https://www.xsmth.com/games/rigelengine/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/rigelengine/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://github.com/lethal-guitar/RigelEngine",
+          "edition": "Duke Nukem II (1993 DOS edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "lethal-guitar/RigelEngine",
+          "url": "https://github.com/lethal-guitar/RigelEngine",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/lethal-guitar/RigelEngine/wiki/Platform-specific-info",
+            "Windows": "https://github.com/lethal-guitar/RigelEngine/wiki/Platform-specific-info",
+            "Linux": "https://github.com/lethal-guitar/RigelEngine/wiki/Platform-specific-info"
+          },
+          "data_requirements": {
+            "en": "Requires original full-game data; the original shareware data can also be used to play the first episode. Point the engine at the game-data directory as documented upstream.",
+            "zh-Hans": "需原版完整游戏数据；也可使用原作共享软件版体验首章。按照上游说明指定游戏数据目录。",
+            "zh-Hant": "需原版完整遊戲資料；也可使用原作共享軟體版體驗首章。按照上游說明指定遊戲資料目錄。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opendune",
+      "names": {
+        "en": "Dune II: The Building of a Dynasty",
+        "zh-Hans": "沙丘 II",
+        "zh-Hant": "沙丘 II"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/opendune/",
+        "zh-Hans": "https://www.xsmth.com/games/opendune/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/opendune/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.mobygames.com/game/241/dune-ii-the-building-of-a-dynasty/",
+          "edition": "Dune II: The Building of a Dynasty (1992 DOS edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenDUNE/OpenDUNE",
+          "url": "https://github.com/OpenDUNE/OpenDUNE",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/OpenDUNE/OpenDUNE/blob/master/README.txt",
+            "Windows": "https://github.com/OpenDUNE/OpenDUNE/blob/master/README.txt",
+            "Linux": "https://github.com/OpenDUNE/OpenDUNE/blob/master/README.txt"
+          },
+          "data_requirements": {
+            "en": "Requires original Dune II 1.07 data, including dune2.exe, placed in the documented data directory. EU, HS and US versions are supported.",
+            "zh-Hans": "需自备 Dune II 1.07 的原版数据，包含 dune2.exe，并按说明放入 data 目录；支持 EU、HS、US 版本。",
+            "zh-Hant": "需自備 Dune II 1.07 的原版資料，包含 dune2.exe，並按說明放入 data 目錄；支援 EU、HS、US 版本。"
           }
         }
       ]
@@ -1398,13 +1566,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/alexbatalov/fallout1-ce#readme",
             "iOS": "https://github.com/alexbatalov/fallout1-ce#readme",
             "macOS": "https://github.com/alexbatalov/fallout1-ce/releases/tag/v1.1.0",
-            "Windows": "https://github.com/alexbatalov/fallout1-ce/releases/tag/v1.1.0"
+            "Windows": "https://github.com/alexbatalov/fallout1-ce/releases/tag/v1.1.0",
+            "Linux": "https://github.com/alexbatalov/fallout1-ce"
           },
           "data_requirements": {
             "en": "Import master.dat, critter.dat and the data folder from the original game. Keep filenames lowercase.",
@@ -1412,9 +1582,9 @@
             "zh-Hant": "匯入原版 master.dat、critter.dat 和 data 資料夾，檔名保持小寫。"
           },
           "desktop_data_requirements": {
-            "en": "Use master.dat, critter.dat and the data directory from an original Fallout installation.",
-            "zh-Hans": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目录。",
-            "zh-Hant": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目錄。"
+            "en": "Use master.dat, critter.dat and the data directory from an original Fallout installation. The Linux instructions use the Windows game data, SDL2 and the Linux executable.",
+            "zh-Hans": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目录。 Linux 安装使用 Windows 版原作数据，按文档安装 SDL2，再运行对应的 Linux 程序。",
+            "zh-Hant": "使用原版 Fallout 的 master.dat、critter.dat 及 data 目錄。 Linux 安裝使用 Windows 版原作資料，按文件安裝 SDL2，再執行對應的 Linux 程式。"
           }
         }
       ]
@@ -1448,13 +1618,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/alexbatalov/fallout2-ce#readme",
             "iOS": "https://github.com/alexbatalov/fallout2-ce#readme",
             "macOS": "https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0",
-            "Windows": "https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0"
+            "Windows": "https://github.com/alexbatalov/fallout2-ce/releases/tag/v1.3.0",
+            "Linux": "https://github.com/alexbatalov/fallout2-ce"
           },
           "data_requirements": {
             "en": "Copy master.dat, critter.dat, patch000.dat and the data folder from your installation.",
@@ -1462,9 +1634,9 @@
             "zh-Hant": "從原版複製 master.dat、critter.dat、patch000.dat 和 data 資料夾。"
           },
           "desktop_data_requirements": {
-            "en": "Copy master.dat, critter.dat, patch000.dat and the data directory from Fallout 2.",
-            "zh-Hans": "从 Fallout 2 原版安装复制 master.dat、critter.dat、patch000.dat 和 data 目录。",
-            "zh-Hant": "從 Fallout 2 原版安裝複製 master.dat、critter.dat、patch000.dat 和 data 目錄。"
+            "en": "Copy master.dat, critter.dat, patch000.dat and the data directory from Fallout 2. The Linux instructions use the Windows game data, SDL2 and the Linux executable.",
+            "zh-Hans": "从 Fallout 2 原版安装复制 master.dat、critter.dat、patch000.dat 和 data 目录。 Linux 安装使用 Windows 版原作数据，按文档安装 SDL2，再运行对应的 Linux 程序。",
+            "zh-Hant": "從 Fallout 2 原版安裝複製 master.dat、critter.dat、patch000.dat 和 data 目錄。 Linux 安裝使用 Windows 版原作資料，按文件安裝 SDL2，再執行對應的 Linux 程式。"
           }
         }
       ]
@@ -1593,15 +1765,26 @@
           "original_platform": "PC",
           "port_type": "Engine reimplementation",
           "platforms": [
-            "Android"
+            "Android",
+            "macOS",
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
-            "Android": "https://github.com/Try/OpenGothic#readme"
+            "Android": "https://github.com/Try/OpenGothic#readme",
+            "macOS": "https://github.com/Try/OpenGothic#macos",
+            "Windows": "https://github.com/Try/OpenGothic#windows",
+            "Linux": "https://github.com/Try/OpenGothic#linux"
           },
           "data_requirements": {
             "en": "Supply the game data and scripts from Night of the Raven.",
             "zh-Hans": "需要《乌鸦之夜》游戏数据和脚本。",
             "zh-Hant": "需要《烏鴉之夜》遊戲資料和指令碼。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply your Night of the Raven game files and scripts and point the engine to that installation.",
+            "zh-Hans": "需要自己的《乌鸦之夜》游戏文件和脚本，将引擎指向原版安装目录。",
+            "zh-Hant": "需要自己的《烏鴉之夜》遊戲檔案和指令碼，將引擎指向原版安裝目錄。"
           }
         }
       ]
@@ -1638,16 +1821,27 @@
           "port_type": "Compatible engine",
           "platforms": [
             "Android",
-            "iOS"
+            "iOS",
+            "macOS",
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/FWGS/xash3d-fwgs#readme",
-            "iOS": "https://github.com/FWGS/xash3d-fwgs#readme"
+            "iOS": "https://github.com/FWGS/xash3d-fwgs#readme",
+            "macOS": "https://github.com/FWGS/xash3d-fwgs/blob/master/Documentation/ports.md",
+            "Windows": "https://github.com/FWGS/xash3d-fwgs#windows-visual-studio",
+            "Linux": "https://github.com/FWGS/xash3d-fwgs#gnulinux"
           },
           "data_requirements": {
             "en": "Supply your own Half-Life data. The project includes Xcode build instructions for iOS.",
             "zh-Hans": "使用自己的 Half-Life 数据；iOS 可按项目的 Xcode 说明构建。",
             "zh-Hant": "使用自己的 Half-Life 資料；iOS 可按專案的 Xcode 說明構建。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply your Half-Life data and the architecture-compatible game libraries specified by the upstream instructions.",
+            "zh-Hans": "导入自己的 Half-Life 数据，并按上游文档准备与处理器架构匹配的游戏库。",
+            "zh-Hant": "匯入自己的 Half-Life 資料，並按上游文件準備與處理器架構匹配的遊戲庫。"
           }
         }
       ]
@@ -1724,13 +1918,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/ihhub/fheroes2/blob/master/docs/DEVELOPMENT.md",
             "iOS": "https://github.com/ihhub/fheroes2/blob/master/docs/DEVELOPMENT.md",
             "macOS": "https://github.com/ihhub/fheroes2/releases/tag/1.1.18",
-            "Windows": "https://github.com/ihhub/fheroes2/releases/tag/1.1.18"
+            "Windows": "https://github.com/ihhub/fheroes2/releases/tag/1.1.18",
+            "Linux": "https://github.com/ihhub/fheroes2/blob/master/docs/INSTALL.md"
           },
           "data_requirements": {
             "en": "Import ANIM, DATA, MAPS, MUSIC and the other required original directories, or follow the project's demo setup.",
@@ -1784,13 +1980,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/vcmi/VCMI.eu/blob/master/additional/docs/faq.md",
             "iOS": "https://github.com/vcmi/VCMI.eu/blob/master/additional/docs/faq.md",
             "macOS": "https://vcmi.eu/players/Installation_macOS/",
-            "Windows": "https://vcmi.eu/players/Installation_Windows/"
+            "Windows": "https://vcmi.eu/players/Installation_Windows/",
+            "Linux": "https://vcmi.eu/players/Installation_Linux/"
           },
           "data_requirements": {
             "en": "Import data from Complete or The Shadow of Death, following the instructions for your mobile platform.",
@@ -1798,9 +1996,9 @@
             "zh-Hant": "匯入完整版或死亡陰影版本的資料；請按移動系統的安裝指南操作。"
           },
           "desktop_data_requirements": {
-            "en": "Import game data from Heroes III Complete or Shadow of Death. Follow the platform guide for importing an existing installation or a supported offline installer.",
-            "zh-Hans": "启动器可识别原版 Complete 或 Shadow of Death 数据。按对应系统说明导入 DATA、MAPS 等目录或受支持的离线安装包。",
-            "zh-Hant": "啟動器可識別原版 Complete 或 Shadow of Death 資料。按對應系統說明匯入 DATA、MAPS 等目錄或受支援的離線安裝包。"
+            "en": "Import game data from Heroes III Complete or Shadow of Death. Follow the platform guide for importing an existing installation or a supported offline installer. Linux requires Heroes III: Shadow of Death or Complete data. The guide explicitly excludes data from the native Loki Linux edition.",
+            "zh-Hans": "启动器可识别原版 Complete 或 Shadow of Death 数据。按对应系统说明导入 DATA、MAPS 等目录或受支持的离线安装包。 Linux 需使用英雄无敌 III 的死亡阴影或完整版数据；项目文档明确不支持 Loki 原生 Linux 版的数据。",
+            "zh-Hant": "啟動器可識別原版 Complete 或 Shadow of Death 資料。按對應系統說明匯入 DATA、MAPS 等目錄或受支援的離線安裝包。 Linux 需使用英雄無敵 III 的死亡陰影或完整版資料；專案文件明確不支援 Loki 原生 Linux 版的資料。"
           }
         }
       ]
@@ -1838,12 +2036,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://ja2-stracciatella.github.io/how-to-run/",
             "macOS": "https://github.com/ja2-stracciatella/ja2-stracciatella/releases/tag/v0.22.1",
-            "Windows": "https://github.com/ja2-stracciatella/ja2-stracciatella/releases/tag/v0.22.1"
+            "Windows": "https://github.com/ja2-stracciatella/ja2-stracciatella/releases/tag/v0.22.1",
+            "Linux": "https://github.com/ja2-stracciatella/ja2-stracciatella"
           },
           "data_requirements": {
             "en": "Install the APK and select your original game data folder in the launcher.",
@@ -1886,12 +2086,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/AlisterT/openjazz/releases",
             "macOS": "https://github.com/AlisterT/openjazz#readme",
-            "Windows": "https://github.com/AlisterT/openjazz/releases/tag/20260301"
+            "Windows": "https://github.com/AlisterT/openjazz/releases/tag/20260301",
+            "Linux": "https://github.com/AlisterT/openjazz"
           },
           "data_requirements": {
             "en": "Supply the original Jazz Jackrabbit game data.",
@@ -1940,13 +2142,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/deathkiller/jazz2#readme",
             "iOS": "https://github.com/deathkiller/jazz2#readme",
             "macOS": "https://github.com/deathkiller/jazz2/releases/tag/3.9.0",
-            "Windows": "https://github.com/deathkiller/jazz2/releases/tag/3.9.0"
+            "Windows": "https://github.com/deathkiller/jazz2/releases/tag/3.9.0",
+            "Linux": "https://github.com/deathkiller/jazz2"
           },
           "data_requirements": {
             "en": "Copy your original installation's contents into the specified Source folder.",
@@ -1990,13 +2194,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/isledecomp/isle-portable#readme",
             "iOS": "https://github.com/isledecomp/isle-portable#readme",
             "macOS": "https://github.com/isledecomp/isle-portable#readme",
-            "Windows": "https://github.com/isledecomp/isle-portable#readme"
+            "Windows": "https://github.com/isledecomp/isle-portable#readme",
+            "Linux": "https://github.com/isledecomp/isle-portable"
           },
           "data_requirements": {
             "en": "Use the setup wizard with original data compatible with the English 1.1 release.",
@@ -2004,9 +2210,9 @@
             "zh-Hant": "使用該專案安裝嚮導，準備與英文 1.1 版相容的原版資料。"
           },
           "desktop_data_requirements": {
-            "en": "Use the setup wizard with the required files from your compatible English copy of LEGO Island.",
-            "zh-Hans": "按项目安装向导提供兼容的、自己持有的英文版 LEGO Island 文件。",
-            "zh-Hant": "按專案安裝嚮導提供相容的、自己持有的英文版 LEGO Island 檔案。"
+            "en": "Use the setup wizard with the required files from your compatible English copy of LEGO Island. Linux x64 and arm64 are listed. The guided installer uses continuous builds and requires your own original game.",
+            "zh-Hans": "按项目安装向导提供兼容的、自己持有的英文版 LEGO Island 文件。 Linux 支持 x64 和 arm64。项目的引导安装页使用持续构建，需要自己持有原版游戏。",
+            "zh-Hant": "按專案安裝嚮導提供相容的、自己持有的英文版 LEGO Island 檔案。 Linux 支援 x64 和 arm64。專案的引導安裝頁使用持續構建，需要自己持有原版遊戲。"
           }
         }
       ]
@@ -2116,11 +2322,13 @@
           "port_type": "Source port",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://alephone.lhowon.org/download.html",
-            "Windows": "https://alephone.lhowon.org/download.html"
+            "Windows": "https://alephone.lhowon.org/download.html",
+            "Linux": "https://github.com/Aleph-One-Marathon/alephone"
           },
           "data_requirements": {
             "en": "Choose a complete game download to get both the engine and a scenario, or supply scenario data when using the standalone engine.",
@@ -2261,15 +2469,26 @@
           "original_platform": "PC",
           "port_type": "Engine reimplementation",
           "platforms": [
-            "Android"
+            "Android",
+            "macOS",
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
-            "Android": "https://github.com/OpenEnroth/OpenEnroth"
+            "Android": "https://github.com/OpenEnroth/OpenEnroth",
+            "macOS": "https://github.com/OpenEnroth/OpenEnroth#getting-started",
+            "Windows": "https://github.com/OpenEnroth/OpenEnroth#getting-started",
+            "Linux": "https://github.com/OpenEnroth/OpenEnroth#getting-started"
           },
           "data_requirements": {
             "en": "Copy the specified data directories from your own Might and Magic VII installation.",
             "zh-Hans": "从自己的《魔法门 VII》安装目录复制项目指定的数据目录。",
             "zh-Hant": "從自己的《魔法門 VII》安裝目錄複製專案指定的資料目錄。"
+          },
+          "desktop_data_requirements": {
+            "en": "Supply the ANIMS, DATA, MUSIC and SOUNDS directories from MM7. The README explains extracting your GOG installer with innoextract on Mac and Linux.",
+            "zh-Hans": "导入原版 MM7 的 ANIMS、DATA、MUSIC、SOUNDS 目录。Mac/Linux 可按文档用 innoextract 提取自己的 GOG 安装包。",
+            "zh-Hant": "匯入原版 MM7 的 ANIMS、DATA、MUSIC、SOUNDS 目錄。Mac/Linux 可按文件用 innoextract 提取自己的 GOG 安裝包。"
           }
         }
       ]
@@ -2456,13 +2675,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/ppy/osu",
             "iOS": "https://github.com/ppy/osu",
             "macOS": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer",
-            "Windows": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer"
+            "Windows": "https://github.com/ppy/osu/releases/tag/2026.1117.0-lazer",
+            "Linux": "https://github.com/ppy/osu"
           },
           "data_requirements": {
             "en": "Download the client from the project, then add beatmaps.",
@@ -2736,16 +2957,18 @@
           "port_type": "Source port",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/Novum/vkQuake#macos",
-            "Windows": "https://github.com/Novum/vkQuake/releases/tag/1.37.0"
+            "Windows": "https://github.com/Novum/vkQuake/releases/tag/1.37.0",
+            "Linux": "https://github.com/Novum/vkQuake"
           },
           "data_requirements": {
-            "en": "Use the appropriate PAK files from the id1 directory of your registered or shareware Quake installation.",
-            "zh-Hans": "从原版或共享版 Quake 导入 id1 目录下对应的 PAK 文件。",
-            "zh-Hant": "從原版或共享版 Quake 匯入 id1 目錄下對應的 PAK 檔案。"
+            "en": "Use the appropriate PAK files from the id1 directory of your registered or shareware Quake installation. The Linux AppImage requires a Vulkan-capable GPU and driver. Check the documented lowercase names for data such as id1 and pak0.pak.",
+            "zh-Hans": "从原版或共享版 Quake 导入 id1 目录下对应的 PAK 文件。 Linux 可用官方 AppImage，需要支持 Vulkan 的显卡和驱动，并核对 id1、pak0.pak 等数据文件名称的大小写。",
+            "zh-Hant": "從原版或共享版 Quake 匯入 id1 目錄下對應的 PAK 檔案。 Linux 可用官方 AppImage，需要支援 Vulkan 的顯示卡和驅動，並核對 id1、pak0.pak 等資料檔名稱的大小寫。"
           }
         }
       ]
@@ -2845,6 +3068,27 @@
             "zh-Hans": "本体需要 baseq2，资料片另需 xatrix 或 rogue。",
             "zh-Hant": "本體需要 baseq2，資料片另需 xatrix 或 rogue。"
           }
+        },
+        {
+          "repository": "yquake2/yquake2",
+          "url": "https://github.com/yquake2/yquake2",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/yquake2/yquake2#readme",
+            "Windows": "https://github.com/yquake2/yquake2/blob/master/doc/020_installation.md",
+            "Linux": "https://github.com/yquake2/yquake2/blob/master/doc/020_installation.md"
+          },
+          "data_requirements": {
+            "en": "Follow the installation guide with your Quake II data and the 3.20 patch, including pak0.pak and the video directory in baseq2.",
+            "zh-Hans": "按安装文档使用自己的 Quake II 数据及 3.20 补丁，将 pak0.pak 和视频目录放入 baseq2。",
+            "zh-Hant": "按安裝文件使用自己的 Quake II 資料及 3.20 補丁，將 pak0.pak 和影片目錄放入 baseq2。"
+          }
         }
       ]
     },
@@ -2898,6 +3142,27 @@
             "en": "Copy baseq3 from the PC game and add it to the Xcode project as directed.",
             "zh-Hans": "从 PC 版复制 baseq3，并按说明加入 Xcode 工程。",
             "zh-Hant": "從 PC 版複製 baseq3，並按說明加入 Xcode 工程。"
+          }
+        },
+        {
+          "repository": "ioquake/ioq3",
+          "url": "https://github.com/ioquake/ioq3",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/ioquake/ioq3#compilation-and-installation",
+            "Windows": "https://github.com/ioquake/ioq3#compilation-and-installation",
+            "Linux": "https://github.com/ioquake/ioq3#compilation-and-installation"
+          },
+          "data_requirements": {
+            "en": "Supply the baseq3 PK3 files from your copy of Quake III Arena and follow the project’s data-directory instructions.",
+            "zh-Hans": "准备自己持有的 Quake III Arena 游戏数据，将 baseq3 中的 PK3 文件放到项目指定目录。",
+            "zh-Hant": "準備自己持有的 Quake III Arena 遊戲資料，將 baseq3 中的 PK3 檔案放到專案指定目錄。"
           }
         }
       ]
@@ -3035,12 +3300,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/OpenRCT2/OpenRCT2/wiki/Android",
             "macOS": "https://docs.openrct2.io/en/latest/installing/installing-on-macos.html",
-            "Windows": "https://docs.openrct2.io/en/latest/installing/installing-on-windows.html"
+            "Windows": "https://docs.openrct2.io/en/latest/installing/installing-on-windows.html",
+            "Linux": "https://docs.openrct2.io/en/latest/installing/installing-on-linux-bsd.html"
           },
           "data_requirements": {
             "en": "Follow the Android guide to import original RCT2 assets and supporting files.",
@@ -3048,9 +3315,9 @@
             "zh-Hant": "按 Android 安裝指南匯入原版 RCT2 的素材和配套檔案。"
           },
           "desktop_data_requirements": {
-            "en": "Provide files from your copy of RollerCoaster Tycoon 2 or a supported RCT Classic installation and select the game directory when prompted.",
-            "zh-Hans": "准备自己持有的 RollerCoaster Tycoon 2 或兼容的 RCT Classic 数据，启动时按指引选取游戏目录。",
-            "zh-Hant": "準備自己持有的 RollerCoaster Tycoon 2 或相容的 RCT Classic 資料，啟動時按指引選取遊戲目錄。"
+            "en": "Provide files from your copy of RollerCoaster Tycoon 2 or a supported RCT Classic installation and select the game directory when prompted. Linux installation options include AppImage, Flatpak and distribution packages. Import your RCT2 files as described in the guide.",
+            "zh-Hans": "准备自己持有的 RollerCoaster Tycoon 2 或兼容的 RCT Classic 数据，启动时按指引选取游戏目录。 Linux 可用 AppImage、Flatpak 或发行版软件包安装，再按说明导入自己持有的 RCT2 文件。",
+            "zh-Hant": "準備自己持有的 RollerCoaster Tycoon 2 或相容的 RCT Classic 資料，啟動時按指引選取遊戲目錄。 Linux 可用 AppImage、Flatpak 或發行版軟體包安裝，再按說明匯入自己持有的 RCT2 檔案。"
           }
         },
         {
@@ -3068,6 +3335,49 @@
             "en": "Sign the app with Xcode and import your own RCT2 data using Files.",
             "zh-Hans": "使用 Xcode 签名安装，从「文件」导入自己持有的 RCT2 数据。",
             "zh-Hant": "使用 Xcode 簽名安裝，從「檔案」匯入自己持有的 RCT2 資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "openxray",
+      "names": {
+        "en": "S.T.A.L.K.E.R.: Call of Pripyat",
+        "zh-Hans": "潜行者：普里皮亚季的召唤",
+        "zh-Hant": "潛行者：普里皮亞季的召喚"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/openxray/",
+        "zh-Hans": "https://www.xsmth.com/games/openxray/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/openxray/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/",
+          "edition": "S.T.A.L.K.E.R.: Call of Pripyat (classic Windows edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "OpenXRay/xray-16",
+          "url": "https://github.com/OpenXRay/xray-16",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/OpenXRay/xray-16/wiki/%5BEN%5D-How-to-build-and-setup-on-Linux-and-MacOS",
+            "Windows": "https://github.com/OpenXRay/xray-16/wiki/%5BEN%5D-How-to-install-and-play",
+            "Linux": "https://github.com/OpenXRay/xray-16/wiki/%5BEN%5D-How-to-build-and-setup-on-Linux-and-MacOS"
+          },
+          "data_requirements": {
+            "en": "Requires original files from the classic Call of Pripyat version 1.6.02. Enhanced Edition assets are not supported, so check which edition you own.",
+            "zh-Hans": "需经典版《普里皮亚季的召唤》1.6.02 的原版文件。Enhanced Edition 增强版素材不受支持，请核对购买版本。",
+            "zh-Hant": "需經典版《普里皮亞季的召喚》1.6.02 的原版檔案。Enhanced Edition 增強版素材不受支援，請核對購買版本。"
           }
         }
       ]
@@ -3463,6 +3773,48 @@
             "zh-Hans": "按所选作品导入 PC 版数据。《黑暗力量》需 GOB 文件和 LFD 文件夹。",
             "zh-Hant": "按所選作品匯入 PC 版資料。《黑暗力量》需 GOB 檔案和 LFD 資料夾。"
           }
+        },
+        {
+          "repository": "JACoders/OpenJK",
+          "url": "https://github.com/JACoders/OpenJK",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/JACoders/OpenJK#macos-instructions",
+            "Windows": "https://github.com/JACoders/OpenJK#for-players",
+            "Linux": "https://github.com/JACoders/OpenJK#linux-instructions"
+          },
+          "data_requirements": {
+            "en": "Install your own copy of the supported game and place OpenJK in GameData. The README gives separate paths for the Mac App Store edition.",
+            "zh-Hans": "先安装自己持有的对应游戏，按说明把 OpenJK 放入 GameData 目录；Mac 商店版另有专门的路径说明。",
+            "zh-Hant": "先安裝自己持有的對應遊戲，按說明把 OpenJK 放入 GameData 目錄；Mac 商店版另有專門的路徑說明。"
+          }
+        },
+        {
+          "repository": "TheForceEngine/TheForceEngine",
+          "url": "https://github.com/TheForceEngine/TheForceEngine",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/TheForceEngine/TheForceEngine#macos",
+            "Windows": "https://github.com/TheForceEngine/TheForceEngine#windows",
+            "Linux": "https://github.com/TheForceEngine/TheForceEngine#linux"
+          },
+          "data_requirements": {
+            "en": "Supply the original Star Wars: Dark Forces game data from your own copy and follow the project’s version requirements.",
+            "zh-Hans": "需要自己购买的经典《Star Wars: Dark Forces》数据。当前支持范围和版本要求见项目文档。",
+            "zh-Hant": "需要自己購買的經典《Star Wars: Dark Forces》資料。當前支援範圍和版本要求見專案文件。"
+          }
         }
       ]
     },
@@ -3668,12 +4020,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/SuperTux/supertux/releases",
             "macOS": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0",
-            "Windows": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0"
+            "Windows": "https://github.com/SuperTux/supertux/releases/tag/v0.7.0",
+            "Linux": "https://www.supertux.org/download.html"
           },
           "data_requirements": {
             "en": "Install the package distributed by the project.",
@@ -3727,13 +4081,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://supertuxkart.net/Download",
             "iOS": "https://supertuxkart.net/Download",
             "macOS": "https://github.com/supertuxkart/stk-code/releases/tag/1.5",
-            "Windows": "https://github.com/supertuxkart/stk-code/releases/tag/1.5"
+            "Windows": "https://github.com/supertuxkart/stk-code/releases/tag/1.5",
+            "Linux": "https://supertuxkart.net/Download"
           },
           "data_requirements": {
             "en": "Choose the matching system download. Required assets come with the game.",
@@ -3831,13 +4187,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/wesnoth/wesnoth",
             "iOS": "https://github.com/wesnoth/wesnoth",
             "macOS": "https://wiki.wesnoth.org/Download",
-            "Windows": "https://wiki.wesnoth.org/Download"
+            "Windows": "https://wiki.wesnoth.org/Download",
+            "Linux": "https://github.com/wesnoth/wesnoth"
           },
           "data_requirements": {
             "en": "Use the mobile links in the project's README.",
@@ -3913,11 +4271,13 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/Interkarma/daggerfall-unity/releases/tag/v1.1.1-cve-2025",
-            "Windows": "https://github.com/Interkarma/daggerfall-unity/releases/tag/v1.1.1-cve-2025"
+            "Windows": "https://github.com/Interkarma/daggerfall-unity/releases/tag/v1.1.1-cve-2025",
+            "Linux": "https://github.com/Interkarma/daggerfall-unity"
           },
           "data_requirements": {
             "en": "Install the original DOS edition of Daggerfall and point Daggerfall Unity to the game directory.",
@@ -3988,11 +4348,13 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0",
-            "Windows": "https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0"
+            "Windows": "https://github.com/OpenMW/openmw/releases/tag/openmw-0.51.0",
+            "Linux": "https://github.com/OpenMW/openmw"
           },
           "data_requirements": {
             "en": "Use the setup wizard with game data from your copy of Morrowind, including Morrowind.esm in the Data Files directory.",
@@ -4036,13 +4398,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/sdlpal/sdlpal",
             "iOS": "https://github.com/sdlpal/sdlpal",
             "macOS": "https://github.com/sdlpal/sdlpal/releases/tag/v3.0.2025.0616",
-            "Windows": "https://github.com/sdlpal/sdlpal/releases/tag/v3.0.2025.0616"
+            "Windows": "https://github.com/sdlpal/sdlpal/releases/tag/v3.0.2025.0616",
+            "Linux": "https://github.com/sdlpal/sdlpal/blob/master/docs/README.md"
           },
           "data_requirements": {
             "en": "Import the resource files from your copy of the original game.",
@@ -4050,9 +4414,9 @@
             "zh-Hant": "匯入自己持有的初代仙劍資原始檔。"
           },
           "desktop_data_requirements": {
-            "en": "Supply the original game resources from a supported edition of The Legend of Sword and Fairy.",
-            "zh-Hans": "导入自己持有的、与 SDLPal 兼容的初代仙剑游戏资源。",
-            "zh-Hant": "匯入自己持有的、與 SDLPal 相容的初代仙劍遊戲資源。"
+            "en": "Supply the original game resources from a supported edition of The Legend of Sword and Fairy. Linux build instructions are provided. Original data filenames must be lowercase, and MIDI support is preliminary.",
+            "zh-Hans": "导入自己持有的、与 SDLPal 兼容的初代仙剑游戏资源。 Linux 有源码构建说明，原版游戏数据文件须使用小写文件名；MIDI 支持仍为初步实现。",
+            "zh-Hant": "匯入自己持有的、與 SDLPal 相容的初代仙劍遊戲資源。 Linux 有原始碼構建說明，原版遊戲資料檔案須使用小寫檔名；MIDI 支援仍為初步實現。"
           }
         }
       ]
@@ -4364,12 +4728,14 @@
           "platforms": [
             "Android",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://powdertoy.co.uk/Download.html",
             "macOS": "https://github.com/The-Powder-Toy/The-Powder-Toy/releases/tag/v100.1.400",
-            "Windows": "https://github.com/The-Powder-Toy/The-Powder-Toy/releases/tag/v100.1.400"
+            "Windows": "https://github.com/The-Powder-Toy/The-Powder-Toy/releases/tag/v100.1.400",
+            "Linux": "https://powdertoy.co.uk/Download/Platforms.html"
           },
           "data_requirements": {
             "en": "Select the Android version from the project's downloads.",
@@ -4413,13 +4779,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://www.scummvm.org/downloads/",
             "iOS": "https://www.scummvm.org/downloads/",
             "macOS": "https://docs.scummvm.org/en/latest/use_scummvm/install_computer.html",
-            "Windows": "https://docs.scummvm.org/en/latest/use_scummvm/install_computer.html"
+            "Windows": "https://docs.scummvm.org/en/latest/use_scummvm/install_computer.html",
+            "Linux": "https://www.scummvm.org/downloads/"
           },
           "data_requirements": {
             "en": "Use the compatibility list to select the original data files for a supported edition.",
@@ -4469,6 +4837,49 @@
             "en": "Select original assets on first launch or import them from your purchased Ubisoft version.",
             "zh-Hans": "首次启动时选择原版资源，或从已购的 Ubisoft 版本导入。",
             "zh-Hant": "首次啟動時選擇原版資源，或從已購的 Ubisoft 版本匯入。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "settlers2-rttr",
+      "names": {
+        "en": "The Settlers II: Gold Edition",
+        "zh-Hans": "工人物语 II：黄金版",
+        "zh-Hant": "工人物語 II：黃金版"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/settlers2-rttr/",
+        "zh-Hans": "https://www.xsmth.com/games/settlers2-rttr/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/settlers2-rttr/"
+      },
+      "original_platforms": [
+        {
+          "platform": "DOS",
+          "source": "https://www.gog.com/en/game/the_settlers_2_gold_edition",
+          "edition": "The Settlers II: Gold Edition (DOS edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "Return-To-The-Roots/s25client",
+          "url": "https://github.com/Return-To-The-Roots/s25client",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/Return-To-The-Roots/s25client/blob/master/README.md",
+            "Windows": "https://github.com/Return-To-The-Roots/s25client/blob/master/README.md",
+            "Linux": "https://github.com/Return-To-The-Roots/s25client/blob/master/README.md"
+          },
+          "data_requirements": {
+            "en": "Requires the original DATA and GFX folders from The Settlers II: Gold Edition, copied into the S2 data directory described by the project.",
+            "zh-Hans": "需自备《工人物语 II：黄金版》的原版 DATA 与 GFX 文件夹，复制到上游说明中的 S2 数据目录。",
+            "zh-Hant": "需自備《工人物語 II：黃金版》的原版 DATA 與 GFX 資料夾，複製到上游說明中的 S2 資料目錄。"
           }
         }
       ]
@@ -4561,11 +4972,13 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.2",
-            "Windows": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.2"
+            "Windows": "https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.2",
+            "Linux": "https://github.com/CorsixTH/CorsixTH"
           },
           "data_requirements": {
             "en": "Import data from your original copy of Theme Hospital or use the supported demo files.",
@@ -4659,11 +5072,13 @@
           "port_type": "Engine reimplementation",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://www.openttd.org/downloads/openttd-releases/latest",
-            "Windows": "https://www.openttd.org/downloads/openttd-releases/latest"
+            "Windows": "https://www.openttd.org/downloads/openttd-releases/latest",
+            "Linux": "https://github.com/OpenTTD/OpenTTD"
           },
           "data_requirements": {
             "en": "Use the open OpenGFX, OpenSFX and OpenMSX sets, or supply compatible assets from your copy of Transport Tycoon Deluxe.",
@@ -4709,6 +5124,52 @@
             "zh-Hans": "使用 Tyrian 2.1 的免费数据文件。",
             "zh-Hant": "使用 Tyrian 2.1 的免費資料檔案。"
           }
+        },
+        {
+          "repository": "andyvand/opentyrian2000",
+          "url": "https://github.com/andyvand/opentyrian2000",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "Android",
+            "iOS",
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "Android": "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3",
+            "iOS": "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3",
+            "macOS": "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3",
+            "Windows": "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3",
+            "Linux": "https://github.com/andyvand/opentyrian2000/releases/tag/3.0.0-SDL3"
+          },
+          "data_requirements": {
+            "en": "Supply the freeware Tyrian 2000 data described in the README and choose the release for your device. iOS installation requires an appropriate signing and installation method.",
+            "zh-Hans": "按项目说明准备免费发布的 Tyrian 2000 数据，并使用对应设备的发行文件。iOS 安装需适用的签名与安装方式。",
+            "zh-Hant": "按專案說明準備免費釋出的 Tyrian 2000 資料，並使用對應裝置的發行檔案。iOS 安裝需適用的簽名與安裝方式。"
+          }
+        },
+        {
+          "repository": "opentyrian/opentyrian",
+          "url": "https://github.com/opentyrian/opentyrian",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/opentyrian/opentyrian#downloads",
+            "Windows": "https://github.com/opentyrian/opentyrian#downloads",
+            "Linux": "https://github.com/opentyrian/opentyrian#downloads"
+          },
+          "data_requirements": {
+            "en": "Upstream release packages include the freeware Tyrian 2.1 data. Source builds require the data described in the Game Data section.",
+            "zh-Hans": "上游发行包已含免费发布的 Tyrian 2.1 数据；自行构建时按 Game Data 一节获取相应数据。",
+            "zh-Hant": "上游發行包已含免費釋出的 Tyrian 2.1 資料；自行構建時按 Game Data 一節獲取相應資料。"
+          }
         }
       ]
     },
@@ -4741,13 +5202,15 @@
             "Android",
             "iOS",
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "Android": "https://github.com/exult/exult/blob/master/README",
             "iOS": "https://github.com/exult/exult/blob/master/README",
             "macOS": "https://exult.info/download.html",
-            "Windows": "https://exult.info/download.html"
+            "Windows": "https://exult.info/download.html",
+            "Linux": "https://github.com/exult/exult"
           },
           "data_requirements": {
             "en": "Import original resources separately for the installment you want to play.",
@@ -4758,6 +5221,49 @@
             "en": "Supply game data from your copy of The Black Gate or Serpent Isle for the chapter you want to play.",
             "zh-Hans": "按准备游玩的篇章导入 The Black Gate 或 Serpent Isle 的合法原版数据。",
             "zh-Hant": "按準備遊玩的篇章匯入 The Black Gate 或 Serpent Isle 的合法原版資料。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vangers",
+      "names": {
+        "en": "Vangers",
+        "zh-Hans": "Vangers",
+        "zh-Hant": "Vangers"
+      },
+      "pages": {
+        "en": "https://www.xsmth.com/en/games/vangers/",
+        "zh-Hans": "https://www.xsmth.com/games/vangers/",
+        "zh-Hant": "https://www.xsmth.com/zh-hant/games/vangers/"
+      },
+      "original_platforms": [
+        {
+          "platform": "Windows",
+          "source": "https://store.steampowered.com/app/264080/Vangers/",
+          "edition": "Vangers (1998 Windows edition)"
+        }
+      ],
+      "projects": [
+        {
+          "repository": "KranX/Vangers",
+          "url": "https://github.com/KranX/Vangers",
+          "original_platform": "PC",
+          "port_type": "Source port",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/KranX/Vangers/blob/master/.github/workflows/oss_macos_build.yml",
+            "Windows": "https://github.com/KranX/Vangers/blob/master/README.md",
+            "Linux": "https://github.com/KranX/Vangers/blob/master/README.md"
+          },
+          "data_requirements": {
+            "en": "Full-game maps, sounds and textures come from your Steam or GOG copy. The openly released Fostral-world data is only part of the game's assets.",
+            "zh-Hans": "完整游戏所需地图、声音和贴图来自自有 Steam 或 GOG 版本；仓库开放的 Fostral 世界数据不等于完整游戏素材。",
+            "zh-Hant": "完整遊戲所需地圖、聲音和貼圖來自自有 Steam 或 GOG 版本；倉庫開放的 Fostral 世界資料不等於完整遊戲素材。"
           }
         }
       ]
@@ -4789,11 +5295,13 @@
           "port_type": "Source port",
           "platforms": [
             "macOS",
-            "Windows"
+            "Windows",
+            "Linux"
           ],
           "platform_evidence": {
             "macOS": "https://github.com/Warzone2100/warzone2100/releases/tag/4.7.0",
-            "Windows": "https://github.com/Warzone2100/warzone2100/releases/tag/4.7.0"
+            "Windows": "https://github.com/Warzone2100/warzone2100/releases/tag/4.7.0",
+            "Linux": "https://github.com/Warzone2100/warzone2100"
           },
           "data_requirements": {
             "en": "The open-source distribution provides the game data. The project also provides optional campaign cinematics as a sequences.wz file.",
@@ -4931,6 +5439,44 @@
             "en": "Import the data directory for the original title you want to play.",
             "zh-Hans": "导入相应原作的游戏数据目录。",
             "zh-Hant": "匯入相應原作的遊戲資料目錄。"
+          }
+        },
+        {
+          "repository": "sfalexrog/openxcom-ios",
+          "url": "https://github.com/sfalexrog/openxcom-ios",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "iOS"
+          ],
+          "platform_evidence": {
+            "iOS": "https://github.com/sfalexrog/openxcom-ios#building-openxcom"
+          },
+          "data_requirements": {
+            "en": "Supply your original UFO or TFTD data in the corresponding directories and configure code signing in Xcode.",
+            "zh-Hans": "准备自己的 UFO 或 TFTD 原版文件，按 README 放入对应目录，再用 Xcode 配置签名。",
+            "zh-Hant": "準備自己的 UFO 或 TFTD 原版檔案，按 README 放入對應目錄，再用 Xcode 配置簽名。"
+          }
+        },
+        {
+          "repository": "OpenXcom/OpenXcom",
+          "url": "https://github.com/OpenXcom/OpenXcom",
+          "original_platform": "PC",
+          "port_type": "Engine reimplementation",
+          "platforms": [
+            "macOS",
+            "Windows",
+            "Linux"
+          ],
+          "platform_evidence": {
+            "macOS": "https://github.com/OpenXcom/OpenXcom/blob/master/README-macOS.md",
+            "Windows": "https://github.com/OpenXcom/OpenXcom#installation",
+            "Linux": "https://github.com/OpenXcom/OpenXcom#linux"
+          },
+          "data_requirements": {
+            "en": "Supply unmodified original UFO or TFTD game data and place it in the corresponding data directory.",
+            "zh-Hans": "准备自己持有且未改动的 UFO 或 TFTD 原版数据，按文档分别放入同名目录。",
+            "zh-Hant": "準備自己持有且未改動的 UFO 或 TFTD 原版資料，按文件分別放入同名目錄。"
           }
         }
       ]

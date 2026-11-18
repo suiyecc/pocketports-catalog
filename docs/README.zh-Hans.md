@@ -2,9 +2,11 @@
 
 [English](../README.md) · 简体中文 · [繁體中文](README.zh-Hant.md)
 
-按设备查找主机和 PC 游戏的移植项目，比较 Android、iPhone、iPad、macOS 和 Windows 对应的上游仓库、安装方式及所需原版文件。
+按设备查找主机和 PC 游戏的移植项目，比较 Android、iPhone、iPad、macOS、Windows 和 Linux 对应的上游仓库、安装方式及所需原版文件。
 
-**按游玩设备浏览** · [Android](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_android#catalog?platform=Android) · [iPhone / iPad](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_ios#catalog?platform=iOS) · [macOS](https://www.xsmth.com/platforms/macos/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_macos) · [Windows](https://www.xsmth.com/platforms/windows/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_windows)
+**按游玩设备浏览** · [Android](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_android#catalog?platform=Android) · [iPhone / iPad](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_ios#catalog?platform=iOS) · [macOS](https://www.xsmth.com/platforms/macos/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_macos) · [Windows](https://www.xsmth.com/platforms/windows/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_windows) · [Linux](https://www.xsmth.com/platforms/linux/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_linux)
+
+**PC 原作移植** · [macOS](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_pc_macos#catalog?origin=PC&platform=macOS) · [iPhone / iPad](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_pc_ios#catalog?origin=PC&platform=iOS) · [Android](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_pc_android#catalog?origin=PC&platform=Android) · [Linux](https://www.xsmth.com/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_pc_linux#catalog?origin=PC&platform=Linux)
 
 **按原作发行系统浏览** · [Windows 原作](https://www.xsmth.com/original-platforms/windows/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_origin_windows) · [macOS 原作](https://www.xsmth.com/original-platforms/macos/?utm_source=github&utm_medium=referral&utm_campaign=pocketports_launch&utm_content=readme_zh_hans_origin_macos)
 
