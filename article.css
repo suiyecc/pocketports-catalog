@@ -1,0 +1,38 @@
+:root {
+  color-scheme: dark;
+  --bg: #111516;
+  --text: #e9ece7;
+  --muted: #aeb7ad;
+  --accent: #beed85;
+  --line: #364039;
+  font: 100%/1.85 system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: var(--accent); text-underline-offset: .18em; }
+a:focus-visible, audio:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.skip { position: absolute; top: .5rem; left: .5rem; transform: translateY(-175%); padding: .2rem .7rem; background: var(--bg); }
+.skip:focus { transform: none; }
+.mast { border-bottom: 1px solid var(--line); }
+.mast-inner, main, footer { width: min(100% - 2.25rem, 48rem); margin-inline: auto; }
+.mast-inner { min-height: 3.8rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.brand { display: inline-flex; align-items: center; color: var(--text); font-size: 1.25rem; font-weight: 750; letter-spacing: -.045em; text-decoration: none; }
+.brand img { margin-right: .5rem; }
+.brand span { color: var(--accent); }
+.section-link { font-size: .92rem; color: var(--muted); }
+main { padding-block: clamp(2rem, 6vw, 4.5rem) 1.6rem; }
+article { overflow-wrap: anywhere; }
+h1, h2 { line-height: 1.32; letter-spacing: -.025em; text-wrap: balance; }
+h1 { font-size: clamp(1.85rem, 5vw, 3.1rem); margin: 0 0 .6rem; }
+h2 { font-size: clamp(1.3rem, 3vw, 1.65rem); margin: 2.5rem 0 .8rem; }
+p { margin: 0 0 1em; }
+.pp-report-byline { color: var(--muted); font-size: .93rem; margin-bottom: 2rem; }
+figure { margin: 1.8rem 0; }
+figure img { display: block; width: 100%; height: auto; border-radius: .4rem; }
+figcaption { margin-top: .4rem; font-size: .9rem; color: var(--muted); }
+audio { display: block; width: 100%; }
+code { font: .92em/1.65 ui-monospace, SFMono-Regular, Menlo, Monaco, monospace; }
+pre { max-width: 100%; margin: 1rem 0 1.4rem; overflow-x: auto; padding: .8rem 1rem; background: #202622; border: 1px solid var(--line); border-radius: .35rem; }
+footer { padding: 1.25rem 0 2.5rem; border-top: 1px solid var(--line); font-size: .93rem; }
